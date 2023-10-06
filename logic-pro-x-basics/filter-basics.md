@@ -1,0 +1,13 @@
+# 📂 Filter Basics
+
+Filtering is the practice of attenuating a range of frequencies from an audio source. Filtering is essentially the same as EQ, in that EQ comprises multiple filters (or bands) to allow for greater flexibility. For instance, Logic’s Channel EQ has a low-pass and high-pass filter, a low-shelf and high-shelf filter, and four band-pass filters. To explain these different types of filtering, low-pass filters out, or attenuates, all frequencies above a specified cutoff, and high-pass attenuates all frequencies below the cutoff. High- and low-pass filters also often have a resonance parameter, which allows you to increase the volume by a certain amount right around the cutoff. Shelf filters are similar to high- and low-pass filters but instead of rolling off in a slope, they decrease frequencies above or below the cutoff by a constant amount. It is important to note that in both of these filter types, the drop off in volume is not at a right angle, but follows a curve of user-defined slope. Band-pass filters are like a high-pass and low-pass filter combined, in that a center frequencies is specified, as well as a width or slope, and frequencies outside of the width from the center are rolled off. See below for visual representations of these filter types:
+
+<figure><img src="https://lh4.googleusercontent.com/slf-ys3HoRqJS88XIh1bEndy9IVg0F4hNp5fVa0hUMPnR8Nc0e_5KgXbnDIZ9B1YEdYy8eu5zoV-ArBc5LpC8RluKDwVru1T0eHmXKAbnZac_1zjP8ebFv1aDdkXDzWZbfSVkpuxwATm62R7I3jU1Q" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://lh5.googleusercontent.com/4hdKCbr7xwmdfcZobz-V1FJh9v_UsDek9yJVO4csxj5xFdGuWk290DD-F1TBUbvxkWUA_u9Z89j4yp6B8T7Vwqq6gYVEAV6wEutG6Or4pqGcwU_M6T4WbcO3TrtClMcOmefGxypLC9MaXLkUkHoX9A" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://lh4.googleusercontent.com/9eRVHUgBOKpGoG4Eg9D_vtHpfTsZXCNh-MOCRdYxOzJTz72aghXS1ZW6mD_mzu8iFdZnC5k9wP8MPy5HuxWhkhUFeeR4m3gCKfBl59uwuS9PuCMwIpu7ipYCIC9ogMg9084kSY3rMy2O7qVyjC9yGQ" alt=""><figcaption></figcaption></figure>
+
+As mentioned above, filtering differs from EQ primarily in its application, in that EQ is often used to specifically tailor individual instruments
+
+Here, with a high ratio and low threshold, you can see that the loudest parts of the audio, also known as peaks, are lowered in volume dramatically. It is important to note that unless you are going for a specific sound, these settings are likely much more extreme than the type of compression used in most studio and production settings; however, like most aspects of music production, compression needs to be tailored to your specific application of it, and you will just need to work with until you develop an ear for it.
