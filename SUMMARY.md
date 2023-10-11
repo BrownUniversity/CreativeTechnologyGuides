@@ -42,6 +42,8 @@
 
 ## Equipment
 
+* [Mobile Recording Kit](equipment/mobile-recording-kit.md)
+
 ## Camera Kit Set Up for Video Recording Humans
 
 * [The Camera + Basic Operations](camera-kit-set-up-for-video-recording-humans/the-camera-+-basic-operations/README.md)
