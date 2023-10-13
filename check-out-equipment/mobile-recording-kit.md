@@ -3,9 +3,31 @@ description: >-
   This section details how to use the mobile recording kit, which enables you to
   improve your phone's existing video capabilities with high-quality audio and
   lighting.
+cover: ../.gitbook/assets/Screenshot 2023-10-13 at 12.35.51 PM (3).png
+coverY: 37.883720930232556
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Mobile Recording Kit
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Mobile Kit Contents .png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 In the past decade, the cameras in smartphones have been getting better and better to the point where now, if used properly, phone footage can be almost indistinguishable from larger mirrorless cameras or DSLRs. Of course, phones don't do everything perfectly, so the mobile kit includes a few key accessories to significantly improve your phone's video capabilities.
 
