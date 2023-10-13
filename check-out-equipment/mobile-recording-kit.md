@@ -169,14 +169,24 @@ The mobile kit also includes a battery-powered, RGB light cube to help light you
 
 {% embed url="https://youtu.be/rIHXagfE7x0?si=Np4RSDgeuHAJJ_bk&t=129" %}
 
-To use the light, begin by turning it on with the on/off switch. Use the left and right arrows to adjust the number selected on the screen. In the picture below, the left-right arrows would adjust the white balance (currently 5600k). For more details on white balance, see the Neewer light kit page. To adjust the brightness, press the main control button and then use the left/right arrows. To change the light into RGB mode, hold down the main control button until the screen changes to the RGB page. Use the left-right arrows to adjust the color and brightness as before. If you hold down the main control button once more, it takes you to the effects page, where you can test out a variety of lighting effects from police sirens to fireworks and many more.
+To use the light, begin by turning it on with the on/off switch. Use the left and right arrows to adjust the number selected on the screen. In the picture below, the left-right arrows would adjust the white balance (currently 5600k).
+
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>Below is a basic translation of color tempture numbers to their natural lighting equivalents. </p></figcaption></figure>
+
+To adjust the brightness, press the main control button and then use the left/right arrows. To change the light into RGB mode, hold down the main control button until the screen changes to the RGB page. Use the left-right arrows to adjust the color and brightness as before. If you hold down the main control button once more, it takes you to the effects page, where you can test out a variety of lighting effects from police sirens to fireworks and many more.
 
 <figure><img src="../.gitbook/assets/Light Cube Instructions (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+### Mounting the Light
 
 To position the light, _**it comes with a cold shoe mount that attaches the same way as the shotgun microphone(see above)**_. Just slide the light onto the top of the phone adapter and tighten the knob. The light also comes with additional cold shoe mounts that allow you to attach the shotgun microphone to it (as pictured). Mounting the light to the camera is best for vlogs or interviews where you want flat, even lighting across your subject.&#x20;
 
 <figure><img src="../.gitbook/assets/Light on Tripod.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-Since the light is battery-powered, it can also be moved wherever you need for your scene. For instance, you can have someone hold the light to the side of your subject for more dramatic lighting or place it somewhere in the background to give a backlight or light the background of your scene. Now, you should have everything you need to create high-quality videos with just your phone!
+#### Alternative Mounting and Positions
+
+Since the light is battery-powered, it can also be moved wherever you need for your scene. For instance, you can have someone hold the light to the side of your subject for more dramatic lighting or place it somewhere in the background to give a backlight or light the background of your scene. _**The back of the light is also magnetic, meaning you can attach it directly to most metal objects.**_
+
+&#x20;Now, you should have everything you need to create high-quality videos with just your phone!
 
 When you are done using the mobile recording kit, remember to pack it up neatly, so it is organized for the next user.
