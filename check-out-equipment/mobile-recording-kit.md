@@ -25,7 +25,11 @@ layout:
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Mobile Kit Contents .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mobile Kit Contents .png" alt="" width="563"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Light on Tripod.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -33,7 +37,9 @@ In the past decade, the cameras in smartphones have been getting better and bett
 
 The first step in setting up the mobile kit is to set up the handgrip/tripod. The handgrip/tripod is multi-functional with two main configurations, so pick whichever option works best for your shot.
 
-#### Option 1: Tripod
+## Setting up the tripod and phone holder
+
+### Option 1: Tripod
 
 The tripod configuration is best for making stationary videos, especially of yourself when you don't have someone else to hold the phone. The tripod works best when you have a table, chair, or other elevated surface to place it on.  To turn the handgrip into a tripod, simply flip the two outmost legs out. Be aware that they may stick some as they flip out.
 
@@ -73,7 +79,7 @@ The tripod has a few options that let you adjust how the phone is positioned. To
 
 Remember to fold the tripod back up and pack in the carrying case when done.
 
-#### Option 2: Vlog Stick
+### Option 2: Vlog Stick
 
 The vlog stick or handgrip configuration is best for shooting handheld video, especially of yourself.
 
@@ -103,11 +109,11 @@ The handgrip has a few options that let you adjust how the phone is positioned. 
 
 Feel free to play around with the handgrip! Its modular design allows it to be configured into a variety of other grip options to best fit your use case.&#x20;
 
-## Audio
+## Setting up audio (shotgun + lav mic)
 
-Once you have the grip set up, you can begin to use the included accessories. The first accessory you may want to set up is one of the microphones. The mobile kit comes with two microphone options as well as a pair of headphones.
+Once you have the grip set up, you can begin to use the included accessories. The first accessory you may want to set up is one of the microphones. _**The mobile kit comes with two microphone options as well as a pair of headphones.**_
 
-#### Shotgun Microphone
+### Shotgun Microphone
 
 The shotgun microphone gives you clear audio in the direction that it is pointed and is best suited for hearing subjects close to the camera as well as getting the sound of spaces and action. As you will see below, the Lavalier microphone is best for hearing clear dialogue, especially in interviews or if the subject is far from the camera.
 
@@ -127,7 +133,7 @@ Now you just need to plug the phone microphone into your phone. The kit includes
 
 <figure><img src="../.gitbook/assets/Aux Ports (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">Optional Additional Windscreen:</mark>
+#### <mark style="background-color:blue;">Optional Additional Windscreen:</mark>
 
 If you are shooting outside on a particularly windy Providence day, consider using the additional windscreen to block out unwanted wind noise. To attach it, just slide it over the existing microphone and screen.&#x20;
 
@@ -141,7 +147,7 @@ If you are shooting outside on a particularly windy Providence day, consider usi
 
 </div>
 
-#### Lavalier Microphone
+### Lavalier Microphone
 
 The Lavalier microphone is best for recording clear dialogue, especially during interviews or when the subject is far from the camera. For basics on using a lav mic, check out the video below:
 
@@ -149,22 +155,24 @@ The Lavalier microphone is best for recording clear dialogue, especially during 
 
 In our kit, the Lavalier microphone can be used in two ways. One is to plug it in directly to the phone you are using to record video, the same way you connect the shotgun mic, using the included phone adapter. Because of the length of the cable, the subject must be near the camera for the microphone to reach them, so this is best for seated interviews where your subject is staying still.
 
+#### Optional DIY Wireless Lav&#x20;
+
 Alternatively, you can plug the Lavalier mic into a separate phone on your subject, which gives them the freedom to move wherever they want while still recording clear audio. With this option, plug the Lavalier mic into your subject's phone the same way as above and record with voice memos or a similar audio-only recording app. Your subject can then leave the phone in their pocket while recording. The only trick with this option is that you need to sync the audio to the video in post-production, which you can do by giving a single clap at the beginning of your video. When you get to editing, just line up the clap on the video with the clap in the audio, and your phone video should now be synced with high-quality audio!
 
-Be aware that with both options, you cannot plug the headphones in while recording audio with the Lavalier microphone, so consider testing the microphones before you shoot and/or listening back to the audio between takes.
+_**Be aware that with both options, you cannot plug the headphones in while recording audio with the Lavalier microphone**_, so consider testing the microphones before you shoot and/or listening back to the audio between takes.
 
-### Lighting
+## Lighting
 
 The mobile kit also includes a battery-powered, RGB light cube to help light your videos. While it is not a replacement for a full light kit, it is handy in a pinch for smaller lighting setups.&#x20;
 
-To begin, make sure the light is charged, and if possible, try to charge it ahead of your shoot. A usb-c cable and block are included for charging. To use the light, begin by turning it on with the on/off switch. Use the left and right arrows to adjust the number selected on the screen. In the picture below, the left-right arrows would adjust the white balance (currently 5600k). For more details on white balance, see the Neewer light kit page. To adjust the brightness, press the main control button and then use the left/right arrows. To change the light into RGB mode, hold down the main control button until the screen changes to the RGB page. Use the left-right arrows to adjust the color and brightness as before. If you hold down the main control button once more, it takes you to the effects page, where you can test out a variety of lighting effects from police sirens to fireworks and many more.
+To begin, _**make sure the light is charged, and if possible, try to charge it ahead of your shoot**_. A usb-c cable and block are included for charging. To use the light, begin by turning it on with the on/off switch. Use the left and right arrows to adjust the number selected on the screen. In the picture below, the left-right arrows would adjust the white balance (currently 5600k). For more details on white balance, see the Neewer light kit page. To adjust the brightness, press the main control button and then use the left/right arrows. To change the light into RGB mode, hold down the main control button until the screen changes to the RGB page. Use the left-right arrows to adjust the color and brightness as before. If you hold down the main control button once more, it takes you to the effects page, where you can test out a variety of lighting effects from police sirens to fireworks and many more.
 
 <figure><img src="../.gitbook/assets/Light Cube Instructions (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-To position the light, it comes with a cold shoe mount that attaches the same way as the shotgun microphone. Just slide the light onto the top of the phone adapter and tighten the knob. The light also comes with additional cold shoe mounts that allow you to attach the shotgun microphone to it (as pictured). Mounting the light to the camera is best for vlogs or interviews where you want flat, even lighting across your subject.&#x20;
+To position the light, _**it comes with a cold shoe mount that attaches the same way as the shotgun microphone(see above)**_. Just slide the light onto the top of the phone adapter and tighten the knob. The light also comes with additional cold shoe mounts that allow you to attach the shotgun microphone to it (as pictured). Mounting the light to the camera is best for vlogs or interviews where you want flat, even lighting across your subject.&#x20;
 
 <figure><img src="../.gitbook/assets/Light on Tripod.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-&#x20;Since the light is battery-powered, it can also be moved wherever you need for your scene. For instance, you can have someone hold the light to the side of your subject for more dramatic lighting or place it somewhere in the background to give a backlight or light the background of your scene. Now, you should have everything you need to create high-quality videos with just your phone!
+Since the light is battery-powered, it can also be moved wherever you need for your scene. For instance, you can have someone hold the light to the side of your subject for more dramatic lighting or place it somewhere in the background to give a backlight or light the background of your scene. Now, you should have everything you need to create high-quality videos with just your phone!
 
 When you are done using the mobile recording kit, remember to pack it up neatly, so it is organized for the next user.
