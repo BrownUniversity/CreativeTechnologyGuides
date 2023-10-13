@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Creative Technology resources](README.md)
+* [Creative Technology](README.md)
 
 ## Guides
 
