@@ -40,9 +40,9 @@
 
 * [🖨 Printing to the Epson Stylus P9000](cheatsheets/printing-to-the-epson-stylus-p9000.md)
 
-## Equipment
+## Check-Out Equipment
 
-* [Mobile Recording Kit](equipment/mobile-recording-kit.md)
+* [Mobile Recording Kit](check-out-equipment/mobile-recording-kit.md)
 
 ## Camera Kit Set Up for Video Recording Humans
 
