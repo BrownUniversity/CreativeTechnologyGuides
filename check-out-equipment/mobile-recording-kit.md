@@ -163,9 +163,13 @@ _**Be aware that with both options, you cannot plug the headphones in while reco
 
 ## Lighting
 
-The mobile kit also includes a battery-powered, RGB light cube to help light your videos. While it is not a replacement for a full light kit, it is handy in a pinch for smaller lighting setups.&#x20;
+The mobile kit also includes a battery-powered, RGB light cube to help light your videos. While it is not a replacement for a full light kit, it is handy in a pinch for smaller lighting setups. To begin, _**make sure the light is charged, and if possible, try to charge it ahead of your shoot**_. A usb-c cable and block are included for charging.&#x20;
 
-To begin, _**make sure the light is charged, and if possible, try to charge it ahead of your shoot**_. A usb-c cable and block are included for charging. To use the light, begin by turning it on with the on/off switch. Use the left and right arrows to adjust the number selected on the screen. In the picture below, the left-right arrows would adjust the white balance (currently 5600k). For more details on white balance, see the Neewer light kit page. To adjust the brightness, press the main control button and then use the left/right arrows. To change the light into RGB mode, hold down the main control button until the screen changes to the RGB page. Use the left-right arrows to adjust the color and brightness as before. If you hold down the main control button once more, it takes you to the effects page, where you can test out a variety of lighting effects from police sirens to fireworks and many more.
+### Operating the light
+
+{% embed url="https://youtu.be/rIHXagfE7x0?si=Np4RSDgeuHAJJ_bk&t=129" %}
+
+To use the light, begin by turning it on with the on/off switch. Use the left and right arrows to adjust the number selected on the screen. In the picture below, the left-right arrows would adjust the white balance (currently 5600k). For more details on white balance, see the Neewer light kit page. To adjust the brightness, press the main control button and then use the left/right arrows. To change the light into RGB mode, hold down the main control button until the screen changes to the RGB page. Use the left-right arrows to adjust the color and brightness as before. If you hold down the main control button once more, it takes you to the effects page, where you can test out a variety of lighting effects from police sirens to fireworks and many more.
 
 <figure><img src="../.gitbook/assets/Light Cube Instructions (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
