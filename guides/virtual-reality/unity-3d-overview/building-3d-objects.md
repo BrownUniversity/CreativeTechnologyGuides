@@ -44,15 +44,15 @@ Each texture map has a different function: **color, roughness, metallic quality*
 
 So far our object has a realistic visual appearance but has no way to interact with the simulated world around it. 3D models are essentially paper thin ghost with no physical structure. You may have noticed this when you accidentally walked through a wall in a video game.
 
-<figure><img src="../../../.gitbook/assets/collider.png" alt="Gnome model with outlines of colliders"><figcaption><p>The gnome uses three simple colliders, two boxes and a capsule, to approximate the form of the more complex mesh.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/collider.gif" alt="Colliders vs no colliders"><figcaption><p>Without a collider objects won't interact with each other.</p></figcaption></figure>
 
 For the simulation to calculate when an object has touched another object you need a collider. **Colliders** are additional 3D shapes you add to your model that the system then uses to calculate the distance between objects. While these 3D shapes can be meshes just like the one used for the gnome they are often much simpler: a sphere, cube or capsule. These simple shapes make it very easy calculate distance. For a sphere knowing its center and radius let you know if a point is inside or outside the shape.
 
-<figure><img src="../../../.gitbook/assets/collider.gif" alt="Colliders vs no colliders"><figcaption><p>Without a collider objects won't interact with each other.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/collider.png" alt="Gnome model with outlines of colliders"><figcaption><p>The gnome uses three simple colliders, two boxes and a capsule, to approximate the form of the more complex mesh.</p></figcaption></figure>
 
-Our gnome has three colliders a capsule for the body, a cube for the feet and another cube for the latern. Even 3 separate simple colliders is more efficient than using the mesh itself as a collider. In most cases you won't know the different when the object is used in a simulation.
+Our gnome has three colliders a capsule for the body, a cube for the feet and another cube for the lantern. Even three separate simple colliders is more efficient than using the mesh itself as a collider. In most cases you won't know the difference when the object is used in a simulation.
 
-Colliders can be used to simply know when something is near an object or area. You could use a collider to trigger when a player has entered the endzone of a football field.
+Colliders can be used to simply know when something is near an object or area, for example, you could use a collider to trigger when a player has entered the endzone of a football field.
 
 ## Rigidbody
 
@@ -60,7 +60,7 @@ The last piece of the puzzle is some basic physics. Objects so far can be seen a
 
 <figure><img src="../../../.gitbook/assets/rigidbody (1).gif" alt=""><figcaption><p>Without a rigidbody objects won't calculate physics which means they won't be effected by gravity.</p></figcaption></figure>
 
-**Rigidbodies** give an object these additional quality, and are the heart of the physics simulation. In addition to the rigidbody itself game engines like unity provide the ability to add **physics materials** which let you simulate aspects like bounciness.
+**Rigidbodies** give an object these additional quality, and are the heart of the physics simulation. In addition to the rigidbody itself game engines like Unity provide the ability to add **physics materials** which let you simulate aspects like bounciness.
 
 To create more complex objects you can add joints between rigidbodies, although for many cases this isn't necessary. Other physics can be simulated with soft body simulations like cloth or ragdolls for moving characters and other flexible objects in a realistic fashion.
 
