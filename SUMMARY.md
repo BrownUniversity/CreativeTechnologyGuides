@@ -25,6 +25,8 @@
   * [📱 iPhone/Smartphone Podcasting Cheat Sheet](guides/podcasting/iphone-smartphone-podcasting-cheat-sheet/README.md)
     * [🗣 Basic tips for interviewing](guides/podcasting/iphone-smartphone-podcasting-cheat-sheet/basic-tips-for-interviewing.md)
     * [🤳 Using Your Phone to Record](guides/podcasting/iphone-smartphone-podcasting-cheat-sheet/using-your-phone-to-record.md)
+* [3D design and modeling](guides/3d-design-and-modeling/README.md)
+  * [Finding 3D models and materials](guides/3d-design-and-modeling/finding-3d-models-and-materials.md)
 
 ***
 
