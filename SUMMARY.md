@@ -45,6 +45,13 @@
 ## Check-Out Equipment
 
 * [Mobile Recording Kit](check-out-equipment/mobile-recording-kit.md)
+* [Camera Kit](check-out-equipment/camera-kit/README.md)
+  * [Basic Operations](check-out-equipment/camera-kit/camera-kit-video.md)
+  * [Video Setup for Recording Humans](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/README.md)
+    * [Audio Set Up](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/audio-set-up.md)
+    * [Custom Mode 1 Settings: A Reference](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/custom-mode-1-settings-a-reference.md)
+* [Manfrotto Befree Tripod](check-out-equipment/manfrotto-befree-tripod.md)
+* [Neewer Light Kit](check-out-equipment/neewer-light-kit.md)
 
 ## Camera Kit Set Up for Video Recording Humans
 
