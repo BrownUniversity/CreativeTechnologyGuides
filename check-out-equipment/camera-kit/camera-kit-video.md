@@ -100,3 +100,6 @@ To transfer via SD Card
 * Transfer your images/video
 * <mark style="background-color:orange;">**REMEMBER TO EJECT THE SD CARD AND PUT IT BACK IN THE CAMERA IMMEDIATELY**</mark>
 
+{% content-ref url="initial-setup-for-recording-monologues/" %}
+[initial-setup-for-recording-monologues](initial-setup-for-recording-monologues/)
+{% endcontent-ref %}

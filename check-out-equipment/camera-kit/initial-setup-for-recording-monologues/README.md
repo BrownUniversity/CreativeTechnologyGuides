@@ -60,3 +60,9 @@ The aperture setting (denoted by f/ number) determines the depth of field of you
 **Set your aperture by turning the front dial** (or shutter dial) until you fall somewhere in that range. Your aperture setting is displayed on the bottom of the LCD panel to the right of your shutter setting&#x20;
 
 <mark style="background-color:yellow;">Tip: if you are in a darker setting, use a smaller aperture number. the smaller the number, the more light is let into the camera</mark>&#x20;
+
+
+
+{% content-ref url="audio-set-up.md" %}
+[audio-set-up.md](audio-set-up.md)
+{% endcontent-ref %}
