@@ -35,6 +35,8 @@ layout:
 
 In the past decade, the cameras in smartphones have been getting better and better to the point where now, if used properly, phone footage can be almost indistinguishable from larger mirrorless cameras or DSLRs. Of course, phones don't do everything perfectly, so the mobile kit includes a few key accessories to significantly improve your phone's video capabilities.
 
+_<mark style="background-color:orange;">**Note:**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">This article provides an overview of the kit and the peripherals it contains to enhance your mobile videography. If you are looking for an overview of best practices, settings, and apps on a smartphone itself, visit the</mark>_ [_<mark style="background-color:orange;">smartphone video page</mark>_](https://sites.google.com/brown.edu/mml-video-resource-guide/production-resources/smartphone-recording) _<mark style="background-color:orange;">in our  MML Video Resource Guide</mark>_
+
 The first step in setting up the mobile kit is to set up the handgrip/tripod. The handgrip/tripod is multi-functional with two main configurations, so pick whichever option works best for your shot.
 
 ## Setting up the tripod and phone holder
