@@ -12,7 +12,7 @@ _<mark style="background-color:orange;">**Don't forget to charge your batteries 
 
 * Set Mode Dial to C1 (custom mode 1)
 
-_<mark style="background-color:yellow;">This mode has already been preset with the optimal settings for the type of video recording done in-class (talking head, dramatic monologue, etc</mark>_
+_<mark style="background-color:yellow;">This mode has already been preset with the optimal settings for the type of video recording done with actors, interviews, human subjects, etc (talking head, dramatic monologue, etc)</mark>_
 
 * Set Focus Mode Dial to C (continuous)
 
