@@ -52,6 +52,7 @@
     * [Custom Mode 1 Settings: A Reference](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/custom-mode-1-settings-a-reference.md)
 * [Manfrotto Befree Tripod](check-out-equipment/manfrotto-befree-tripod.md)
 * [Neewer Light Kit](check-out-equipment/neewer-light-kit.md)
+* [Zoom M4 Audio Recorder](check-out-equipment/zoom-m4-audio-recorder.md)
 
 ## Camera Kit Set Up for Video Recording Humans
 
