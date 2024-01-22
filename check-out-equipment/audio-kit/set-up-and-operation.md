@@ -1,10 +1,9 @@
 ---
 description: >-
-  Our Zoom M4 audio kit is a versatile audio recorder that can be used to
-  capture sound from live music events, "on the street" style interviews, voice
-  over and narration, and even video production.
+  Learn how to set up the audio recorder, record, playback, and other essential
+  functions
 cover: >-
-  ../.gitbook/assets/Normalize_1.jpg.1400x800_q80_crop_focal_area-1600,900,3200,1800_size_canvas_upscale_zoom-50.jpg
+  ../../.gitbook/assets/Normalize_1.jpg.1400x800_q80_crop_focal_area-1600,900,3200,1800_size_canvas_upscale_zoom-50.jpg
 coverY: 27
 layout:
   cover:
@@ -22,25 +21,9 @@ layout:
     visible: true
 ---
 
-# Audio Kit
-
-## Overview
+# Set up and Operation
 
 #### [**Zoom M4 Manual**](https://zoomcorp.com/media/documents/E\_M4\_3.pdf)
-
-The Zoom M4 has two onboard mics for high quality stereo sound. In addition those, the M4 also has two XLR/1/4" jack inputs that can be used with a variety of other external microphones or instruments. The M4 records in 32 bit float format which avoids clipping meaning there is no need to set gain. This versatile piece of equipment normally acts as an audio recorder, but it can also be used as an audio interface, allowing you to record directly onto your computer using whatever software you like, such as Ableton Live, Adobe Audtion, Reaper, Etc. If you want a more extensive overview, watch this short video:&#x20;
-
-{% embed url="https://www.youtube.com/watch?v=A1AGp8DhbbU" fullWidth="false" %}
-
-<mark style="color:orange;">Note: If using as an audio interface the onboard mics are routed as input 1+2. The external inputs on the M4 are routed as 3 or 4.</mark>&#x20;
-
-## Kit Layout and CheckList
-
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/Audio Recorder Kit Checklist (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
 
 ## Setting up Tabletop Tripod
 
@@ -52,31 +35,31 @@ The Zoom M4 has two onboard mics for high quality stereo sound. In addition thos
 
 <div>
 
-<figure><img src="../.gitbook/assets/Tripod + Ball Head.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tripod + Ball Head.png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Tripod Assembled.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tripod Assembled.png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Fully Assembled Tabletop.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Fully Assembled Tabletop.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 The Tabletop Tripod can also be used as a versatile pistol grip for field recordings
 
-<figure><img src="../.gitbook/assets/PXL_20240112_200441042.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PXL_20240112_200441042.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Zoom M4 Diagram + LayOut
 
 <div>
 
-<figure><img src="../.gitbook/assets/Zoom M4 Diagram Layout.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zoom M4 Diagram Layout.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Zoom M4 Layout Bottom.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zoom M4 Layout Bottom.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -92,15 +75,19 @@ To add to remove the batteries:
 
 <div>
 
-<figure><img src="../.gitbook/assets/Zoom m4 backbottom copy.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zoom m4 backbottom copy.png" alt="" width="563"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Zoom M4 Battery Carriage Door copy.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zoom M4 Battery Carriage Door copy.png" alt="" width="563"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Battery Charger.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
-## BASIC OPERATIONS
+## Basic Operations
 
 ### Turning the Zoom M4 On/Off
 
@@ -110,11 +97,11 @@ To add to remove the batteries:
 
 <div>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-17 at 2.04.11 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 2.04.11 PM.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/TurnOn.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/TurnOn.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -130,11 +117,11 @@ To add to remove the batteries:
 
 <div>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-17 at 2.20.36 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 2.20.36 PM.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Recording and Stopping.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recording and Stopping.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -152,11 +139,11 @@ To listen back to your recordings:
 
     <div>
 
-    <figure><img src="../.gitbook/assets/Screenshot 2024-01-17 at 2.31.22 PM (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 2.31.22 PM (1).png" alt=""><figcaption></figcaption></figure>
 
      
 
-    <figure><img src="../.gitbook/assets/Playback.gif" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Playback.gif" alt=""><figcaption></figcaption></figure>
 
     </div>
 
@@ -173,7 +160,7 @@ _**There are 4 settings for the lowcut filter, including OFF. To change those se
 
 
 
-<figure><img src="../.gitbook/assets/lo cut filter.gif" alt="" width="380"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lo cut filter.gif" alt="" width="380"><figcaption></figcaption></figure>
 
 ### Setting The Input:  Stereo vs Mono
 
@@ -194,11 +181,11 @@ To access the menu settings press the menu button on the right side of the recor
 
 <div>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-17 at 3.17.36 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 3.17.36 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Menu Navigation Buttons.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Menu Navigation Buttons.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -257,6 +244,10 @@ Timecode allows you to better sync up audio with other recorded media, such as v
 We will be showing you how to transfer your recordings to a computer using the included USB-C cord. This is the preferred way of transferring files. _**Please do not take out the micro-SD card to transfer files unless it is a last resort.**_&#x20;
 
 
+
+{% content-ref url="transferring-files.md" %}
+[transferring-files.md](transferring-files.md)
+{% endcontent-ref %}
 
 
 
