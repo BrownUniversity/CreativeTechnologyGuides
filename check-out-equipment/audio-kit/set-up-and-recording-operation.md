@@ -246,8 +246,6 @@ Timecode allows you to better sync up audio with other recorded media, such as v
 
 {% embed url="https://drive.google.com/file/d/1iLST7zV6ALwzMVZMQ_yzfAMqCSwXjZgb/view?usp=sharing" %}
 
-## Transferring Recordings / Audio Files onto a Computer
-
 We will be showing you how to transfer your recordings to a computer using the included USB-C cord. This is the preferred way of transferring files. _**Please do not take out the micro-SD card to transfer files unless it is a last resort.**_&#x20;
 
 
