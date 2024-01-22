@@ -65,7 +65,7 @@ The Tabletop Tripod can also be used as a versatile pistol grip for field record
 
 ## Adding and Removing The Batteries
 
-The Zoom M4 utilizes 4 AA batteries to operate. <mark style="color:orange;">Note: It can also operate using the USB-C cord while connected to a computer without batteries</mark>. The kit included 4 Rechargable AA batteries as well a charger.&#x20;
+The Zoom M4 utilizes 4 AA batteries to operate. <mark style="color:orange;">Note: It can also operate using the USB-C cord while connected to a computer without batteries</mark>. The kit included 4 Rechargable AA batteries as well a _**wall charger, which is the only way to recharge the batteries**_.&#x20;
 
 To add to remove the batteries:
 
