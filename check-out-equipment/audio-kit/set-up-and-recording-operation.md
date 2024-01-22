@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Set up and Operation
+# Set up and Recording Operation
 
 #### [**Zoom M4 Manual**](https://zoomcorp.com/media/documents/E\_M4\_3.pdf)
 
@@ -111,6 +111,8 @@ To add to remove the batteries:
 
 1. To start a recording, aim the microphone toward your subject and **press the red record button**
    * You will notice both a waveform on the LCD screen representing the sound as well as the timestamp on the top left of the LCD turn red and begin to count time.&#x20;
+   * The M4 is a 32 bit float recorder, meaning there is no need to set microphone gain! You can simply set levels in post production editing.&#x20;
+   * <mark style="color:orange;">note:  if you do want to increase or decrease gain, use the "+" and "-" magnifying glass icon buttons below the LCD screen to increase or decrease the gain</mark>
 2. To stop a recording, **press the stop button**, not the record button
    * Pressing the record button will add a marker to audio, but it will continue to record
    * if you need to pause your recording, press the play/pause button&#x20;
@@ -172,8 +174,13 @@ To set your input to Mono or Stereo using the on-board mics:
 
 1. Press the input button under the left side of the LCD screen.
 2. Press the input button again to choose between mono, stereo, and off
+   * _"off" should be selected only when you want to turn off the onboard mics and only use external mics._
 3. The menu will disappear on its own once you stop pressing the lo cut button.
 4. <mark style="color:orange;">Note that if you are using</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">**external mics**</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">that are connected via XLR or 1/4" jack, you can select them as inputs by pressing the "1" and "2" buttons respectively.</mark>
+
+## Working with External Mics/Inputs
+
+{% embed url="https://drive.google.com/file/d/1TDHa4uVNP9Qa3n773Es1qglbXVicrLaG/view?usp=sharing" %}
 
 ## Menu Settings (CHECK EVERY TIME)
 
@@ -245,8 +252,8 @@ We will be showing you how to transfer your recordings to a computer using the i
 
 
 
-{% content-ref url="transferring-files.md" %}
-[transferring-files.md](transferring-files.md)
+{% content-ref url="transferring-files-+-audio-interface-setup.md" %}
+[transferring-files-+-audio-interface-setup.md](transferring-files-+-audio-interface-setup.md)
 {% endcontent-ref %}
 
 
