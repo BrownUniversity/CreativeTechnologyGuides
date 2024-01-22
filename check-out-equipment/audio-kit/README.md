@@ -44,8 +44,8 @@ The Zoom M4 has two onboard mics for high quality stereo sound. In addition thos
 
 
 
-{% content-ref url="set-up-and-operation.md" %}
-[set-up-and-operation.md](set-up-and-operation.md)
+{% content-ref url="set-up-and-recording-operation.md" %}
+[set-up-and-recording-operation.md](set-up-and-recording-operation.md)
 {% endcontent-ref %}
 
 
