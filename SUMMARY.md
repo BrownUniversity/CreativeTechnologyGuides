@@ -52,7 +52,9 @@
     * [Custom Mode 1 Settings: A Reference](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/custom-mode-1-settings-a-reference.md)
 * [Manfrotto Befree Tripod](check-out-equipment/manfrotto-befree-tripod.md)
 * [Neewer Light Kit](check-out-equipment/neewer-light-kit.md)
-* [Audio Kit](check-out-equipment/audio-kit.md)
+* [Audio Kit](check-out-equipment/audio-kit/README.md)
+  * [Set up and Operation](check-out-equipment/audio-kit/set-up-and-operation.md)
+  * [Transferring Files](check-out-equipment/audio-kit/transferring-files.md)
 
 ## Camera Kit Set Up for Video Recording Humans
 
