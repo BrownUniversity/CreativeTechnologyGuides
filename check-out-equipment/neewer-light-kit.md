@@ -1,14 +1,34 @@
 ---
 description: >-
-  This page will run you through using the Neewer, 2-panel light kit, which
+  This page will run you through using the Neewer, three-panel light kit, which
   includes everything you need to light a small scene.
 ---
 
 # Neewer Light Kit
 
+### Introduction:
+
+_**We highly recommend watching this entire video until about 4:10**_ to learn not only what the lights are capable of, but how to operate them correctly. The rest of this guide is either a breakdown of what is in this video or an expansion of how to use the entire kit.&#x20;
+
+{% embed url="https://youtu.be/pMQgKSUkElI?feature=shared&t=48" %}
+
+#### What's in the kit:&#x20;
+
+* 3 LED light panels
+* 3 Light Stands
+* 6 Batteries and Battery Chargers
+* 3 Wall Power Blocks
+* 2 Softboxes&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-20 at 2.23.03 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
 ### Setting up the Lights
 
-Inside the Neewer light kit, you will find two light panels and light two stands as well as the necessary cables and batteries. These two lights should be sufficient to light most smaller scenes.
+Inside the Neewer light kit, you will find three light panels and light two stands as well as the necessary cables and batteries. These two lights should be sufficient to light most smaller scenes.
 
 To begin using the lights, remove the light stands from the case and set them up approximately where you want your lights to be. If you need to learn how to set up a light stand, check out this video:&#x20;
 
@@ -40,30 +60,6 @@ For your final step, just open up the barn doors on the front of the lighting un
 
 </div>
 
-### Using the Lights
-
-To turn on the lights, just flip the switch on the back of the unit. There are two options, battery-powered or wall-powered. For most use cases, you will set it to wall-powered.&#x20;
-
-<div>
-
-<figure><img src="../.gitbook/assets/Power Switch.jpg" alt=""><figcaption><p>Wall-powered on right and battery-powered on left</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Light on!.jpg" alt=""><figcaption><p>Let there be light!</p></figcaption></figure>
-
-</div>
-
-The light should now be on! You can now use the dials on the back of the lighting unit to adjust intensity and color temperature. The left dial (labeled HSI) controls color temp. The right dial (labeled BRR) controls brightness. Use the screen on the back of the unit to view your settings.
-
-<figure><img src="../.gitbook/assets/Dials on back.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-For a basic understanding of how to set your color temperature, check out this chart:
-
-<figure><img src="../.gitbook/assets/Kelvin-Scale-755.jpg" alt="" width="563"><figcaption><p>5600K is best for recreating daylight, while 3200K is best for recreating warm, indoor lights.</p></figcaption></figure>
-
-Feel free to move around the lighting units here, so they best suit your scene. For some basic tips on how best to position lights, check out our guide to two-point lighting at the bottom of this page! As a rule of thumb, the closer you position the light to your subject, the softer the light will be.
-
 <mark style="background-color:blue;">Optional: Battery Powered</mark>
 
 The Neewer Light Kit comes with additional batteries as well as battery chargers that allow you to use the unit if you are outdoors or otherwise away from a power source. When using the batteries, just be aware that they have a finite running time and consider turning off the units when not actively using them. We would also recommend charging your batteries overnight if possible. Remember to switch the unit to battery-powered when using batteries!
@@ -78,23 +74,67 @@ The Neewer Light Kit comes with additional batteries as well as battery chargers
 
 </div>
 
-### Packing up the Lights
+### Operating the Lights
 
-To pack up the lighting units, just follow the steps you used to set up the lights in reverse. All of the items, including stands, batteries, and cables, should fit neatly back inside the case.
+#### <mark style="background-color:purple;">Turn on the lights</mark>
+
+just flip the switch on the back of the unit. There are two options, battery-powered or wall-powered. For most use cases, you will set it to wall-powered. The light should now be on!&#x20;
 
 <div>
 
-<figure><img src="../.gitbook/assets/Packed Case.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Power Switch.jpg" alt=""><figcaption><p>Wall-powered on right and battery-powered on left</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Case (Full) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Light on!.jpg" alt=""><figcaption><p>Let there be light!</p></figcaption></figure>
 
 </div>
 
-## <mark style="background-color:orange;">Two-Point Lighting:</mark>
+#### <mark style="background-color:purple;">Setting color temperature for White Light</mark>
 
-Check out this tutorial on two-point lighting using these exact panels:
+First make sure your are in the CCT mode for white light, which is displayed in the upper left corner of the LCD panel. If you aren't, press the mode button until the panel reads CCT. You can now use the dials on the back of the lighting unit to adjust intensity and color temperature. The left dial (labeled HSI) controls color temp. The right dial (labeled BRR) controls brightness. Use the screen on the back of the unit to view your settings.
+
+<div align="center" data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Dials on back.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-20 at 3.39.47 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+For a basic understanding of how to set your color temperature, check out this chart:
+
+<figure><img src="../.gitbook/assets/Kelvin-Scale-755.jpg" alt="" width="563"><figcaption><p>5600K is best for recreating daylight, while 3200K is best for recreating warm, indoor lights.</p></figcaption></figure>
+
+Feel free to move around the lighting units here, so they best suit your scene. For some basic tips on how best to position lights, check out our guide on three and two-point lighting at the bottom of this page! As a rule of thumb, the closer you position the light to your subject, the softer the light will be.
+
+#### <mark style="background-color:purple;">Using RGB Mode</mark>
+
+To access RGB Mode, press the mode button the back panel until the LCD screen reads HSI on the top left. You can now rotate the left dial (labeled HSI) to change to color. Once you have the color selected you can press the dial in like a button to go into saturation mode. The knob on the right still controls brightness.  [Watch this snippet of video for a more detailed look into RGB mode.](https://youtu.be/pMQgKSUkElI?feature=shared\&t=204)
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-20 at 3.40.48 PM.png" alt=""><figcaption></figcaption></figure>
+
+#### <mark style="background-color:purple;">Optional: Using the Softboxes</mark>
+
+Take a look at the video below (set to start at 1:47) to learn how to install and use the softboxes. _<mark style="color:orange;">**If you remove the barn doors to attach the softbox, you are expected to reinstall them before returning them to checkout**</mark>_
+
+{% embed url="https://youtu.be/pMQgKSUkElI?feature=shared&t=107" %}
+
+### Packing up the Lights
+
+To pack up the lighting units, just follow the steps you used to set up the lights in reverse. All of the items, including lights, stands, batteries,  chargers and cables, should fit neatly back inside the case.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-20 at 2.23.03 PM.png" alt=""><figcaption></figcaption></figure>
+
+## <mark style="background-color:orange;">Three Point Lighting</mark>
+
+This is a great tutorial on different ways to use a basic 3 light setup
+
+{% embed url="https://www.youtube.com/watch?v=nqMQZG68Wkc" %}
+
+You can also check out this tutorial on two-point lighting using the exact LED panels in the kit!:
 
 {% embed url="https://www.youtube.com/watch?v=bAVlAhX_pAM" %}
 
