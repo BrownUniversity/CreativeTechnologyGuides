@@ -51,7 +51,7 @@
     * [Audio Set Up](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/audio-set-up.md)
     * [Custom Mode 1 Settings: A Reference](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/custom-mode-1-settings-a-reference.md)
 * [Manfrotto Befree Tripod](check-out-equipment/manfrotto-befree-tripod.md)
-* [Neewer Light Kit](check-out-equipment/neewer-light-kit.md)
+* [Neewer 3 Point Light Kit](check-out-equipment/neewer-light-kit.md)
 * [Audio Kit](check-out-equipment/audio-kit/README.md)
   * [Set up and Recording Operation](check-out-equipment/audio-kit/set-up-and-recording-operation.md)
   * [Transferring Files + Audio Interface Setup](check-out-equipment/audio-kit/transferring-files-+-audio-interface-setup.md)

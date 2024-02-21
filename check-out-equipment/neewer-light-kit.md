@@ -4,13 +4,15 @@ description: >-
   includes everything you need to light a small scene.
 ---
 
-# Neewer Light Kit
+# Neewer 3 Point Light Kit
 
 ### Introduction:
 
-_**We highly recommend watching this entire video until about 4:10**_ to learn not only what the lights are capable of, but how to operate them correctly. The rest of this guide is either a breakdown of what is in this video or an expansion of how to use the entire kit.&#x20;
+_**We highly recommend watching the video below until about 4:10**_ to learn about both what the lights are capable of and how to operate them correctly. The rest of this guide is either a breakdown of what is in this video or an expansion of how to use the entire kit.&#x20;
 
 {% embed url="https://youtu.be/pMQgKSUkElI?feature=shared&t=48" %}
+
+#### [<mark style="background-color:yellow;">Instruction Manual  (for reference)</mark>](https://usdb.oss-us-west-1.aliyuncs.com/neewer\_support/instruction/RGB%20LED%20Lights/RGB660%20PROII%20LED%20Panel%20Light.pdf)
 
 #### What's in the kit:&#x20;
 
