@@ -30,7 +30,7 @@ _**We highly recommend watching the video below until about 4:10**_ to learn abo
 
 ### Setting up the Lights
 
-Inside the Neewer light kit, you will find three light panels and light two stands as well as the necessary cables and batteries. These two lights should be sufficient to light most smaller scenes.
+Inside the Neewer light kit, you will find three light panels and three light stands as well as the necessary cables and batteries. These three lights should be sufficient to light most  scenes.
 
 To begin using the lights, remove the light stands from the case and set them up approximately where you want your lights to be. If you need to learn how to set up a light stand, check out this video:&#x20;
 
