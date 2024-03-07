@@ -56,7 +56,7 @@
 * [Audio Kit](check-out-equipment/audio-kit/README.md)
   * [Set up and Recording Operation](check-out-equipment/audio-kit/set-up-and-recording-operation.md)
   * [Transferring Files + Audio Interface Setup](check-out-equipment/audio-kit/transferring-files-+-audio-interface-setup.md)
-* [Recorder Kit](check-out-equipment/recorder-kit.md)
+* [Basic Recorder Kit](check-out-equipment/basic-recorder-kit.md)
 * [GoPro Kit](check-out-equipment/gopro-kit.md)
 
 ## Camera Kit Set Up for Video Recording Humans
