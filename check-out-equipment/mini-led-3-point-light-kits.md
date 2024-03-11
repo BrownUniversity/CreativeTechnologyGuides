@@ -1,10 +1,11 @@
 ---
 description: >-
-  This page will run you through using the Mini-LED Three-Point Light Kit, a
-  more portable alternative to the Neewer Light Kit.
+  This page will run you through using the Mini-LED Three-Point Light Kits, one
+  RGB and one bi-color. These are more portable alternatives to the Neewer Light
+  Kit.
 ---
 
-# Mini LED 3 Point Light Kit
+# Mini LED 3 Point Light Kits
 
 ## Introduction:
 
