@@ -6,7 +6,7 @@ description: >-
 
 # Mini LED 3 Point Light Kit
 
-### Introduction:
+## Introduction:
 
 There are two, highly portable Mini-LED kits available for checkout. The main kit contains three RGB light panels, and there is also a similar, bi-color kit available. Most of this guide will be focused on the RGB light kit, but scroll to the bottom of the page if you have questions about how to use the bi-color light kit. For a quick start guide on the RGB lights, check out the video below:
 
@@ -14,7 +14,7 @@ There are two, highly portable Mini-LED kits available for checkout. The main ki
 Tutorial on how to operate the lights starts @ 1:30
 {% endembed %}
 
-#### What's in the kit:&#x20;
+### What's in the kit:&#x20;
 
 * 3 Mini LED light panels
 * 3 Mini Diffusion Panels
@@ -25,11 +25,13 @@ Tutorial on how to operate the lights starts @ 1:30
 
 <figure><img src="../.gitbook/assets/In the Case.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
+## Setup&#x20;
+
 If you have worked with other light stands before, these might look a little different than what you are used to, but they work just the same. To start, flip out the legs by pushing down on the button at the bottom of the light stand, then pull the legs all the way out like a tripod.
 
 <figure><img src="../.gitbook/assets/Push Button (1).jpg" alt="" width="375"><figcaption><p>Push Button</p></figcaption></figure>
 
-To extend the light stand, twist the shaft counter-clockwise (to unlock), extend to the desired height, and then twist the shaft clockwise to lock in the height. Finally, attach the light to the stand by screwing it into the screw mount at the top of the light stand.
+<mark style="background-color:orange;">**To extend the light stand, twist the shaft counter-clockwise (to unlock), extend to the desired height, and then twist the shaft clockwise to lock in the height.**</mark> Finally, attach the light to the stand by screwing it into the screw mount at the top of the light stand.
 
 <div>
 
@@ -45,7 +47,7 @@ You should now be ready to use the Mini-LED kit! As a reminder, watch the video 
 
 ### Bi-Color Light Kit
 
-The bi-color mini LED kit can be used in many of the same ways as the RGB kit, with the key difference being the exclusion of the RGB functionality. For more naturalistic scenes that don't need colored lighting, these lights should work just as well.
+The bi-color mini LED kit can be used in many of the same ways as the RGB kit, with the key difference being the exclusion of the RGB functionality. For more naturalistic scenes that don't need colored lighting, these lights should work just as well. Another difference in the kit is that it uses 3 reverse folding light stands (see below)
 
 Check out the video below for a quick overview of how to use the lights:
 
@@ -69,3 +71,8 @@ For a brief overview of color temperature, check out this chart:
 
 <figure><img src="../.gitbook/assets/image (47).png" alt="" width="563"><figcaption></figcaption></figure>
 
+### How to use the reverse fold light stands in the bi-color kit
+
+This video goes over how to properly fold and set up these light stands. Please follow the two light stands on the right. The left one is a traditional light stand.
+
+{% embed url="https://www.youtube.com/watch?v=WXzX4Yh5d2I" %}
