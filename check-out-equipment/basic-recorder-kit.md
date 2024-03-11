@@ -22,6 +22,8 @@ layout:
 
 # Basic Recorder Kit
 
+[<mark style="color:orange;">**H1n Manual**</mark>](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E\_H1n\_0.pdf)
+
 The H1n can be used for voice over, recording interviews (just the interviewee), event recording, ambient recording, etc. It has two on-board mics allowing for true stereo recording. This reliable recording device is simple to operate, using common buttons like record, play, stop, etc. Please watch the following video:&#x20;
 
 _<mark style="background-color:orange;">**note: this video was made by  originally for the IT Service Center, so please ignore those  references and focus on the operation of the equipment**</mark>_
