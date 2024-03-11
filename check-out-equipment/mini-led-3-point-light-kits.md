@@ -72,8 +72,14 @@ For a brief overview of color temperature, check out this chart:
 
 <figure><img src="../.gitbook/assets/image (47).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### How to use the reverse fold light stands in the bi-color kit
+#### How to use the reverse fold light stands in the bi-color kit
 
 This video goes over how to properly fold and set up these light stands. Please follow the two light stands on the right. The left one is a traditional light stand.
 
 {% embed url="https://www.youtube.com/watch?v=WXzX4Yh5d2I" %}
+
+## Learning more about 3 Point Lighting
+
+3 point lighting is a standard industry practice for getting the best lighting on your subject in a way that separates them from the background. [To find out more about how to use 3 point lighting effectively visit these resources on our main lighting kit page](https://gitbook.brown.edu/bai-creative-technology/check-out-equipment/neewer-light-kit#three-point-lighting). You can also take a look at the diagram below for a quick overview:&#x20;
+
+<figure><img src="../.gitbook/assets/3pointlighting4print8 copy.png" alt=""><figcaption></figcaption></figure>
