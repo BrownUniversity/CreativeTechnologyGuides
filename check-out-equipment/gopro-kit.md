@@ -15,16 +15,16 @@ description: >-
   * USB Block
 * 128gb MicroSD Card
   * MicroSD to USB-C adapter
-* Joby GorrillaPod
+* magnetic Joby GorrillaPod
 * Head Mount
 * Hand Grip
 * Flexible Grip Mount
 
-<figure><img src="../.gitbook/assets/Storage (combined).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Storage (combined).jpg" alt="" width="563"><figcaption><p>Most of the accessories should be stored in the main bag as shown (left), while the GoPro, Charger, Charging Block, Cords, and Joby Tripod should go in the smaller case that fits inside the main bag as well. </p></figcaption></figure>
 
 ## Quick Start Guide
 
-Below is a helpful 10min video that will show you all of the basic functions and operations of using the GoPro Hero11 Black. There are a few things to note however:
+Below is a helpful 10min video that will demonstrate the basic functions and operations of using the GoPro Hero11 Black. There are a few things to note, however:
 
 * <mark style="background-color:orange;">**Never remove the side door**</mark>&#x20;
 * <mark style="background-color:orange;">**Never remove the lens hood**</mark>&#x20;
