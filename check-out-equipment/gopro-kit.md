@@ -2,6 +2,23 @@
 description: >-
   This guide will walk you through using the GoPro kit along with its included
   accessories, which allow you to capture a wide variety of unique footage.
+cover: >-
+  https://media.wired.com/photos/633dbb1685e7a4cc2f802267/master/pass/GoPro-Hero-11-Gear.jpg
+coverY: 30
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # GoPro Kit
