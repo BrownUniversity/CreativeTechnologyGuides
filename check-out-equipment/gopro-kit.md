@@ -15,7 +15,7 @@ description: >-
   * USB Block
 * 128gb MicroSD Card
   * MicroSD to USB-C adapter
-* magnetic Joby GorrillaPod
+* Magnetic Joby GorrillaPod
 * Head Mount
 * Hand Grip
 * Flexible Grip Mount
