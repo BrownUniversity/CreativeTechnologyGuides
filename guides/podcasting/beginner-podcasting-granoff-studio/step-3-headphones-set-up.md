@@ -24,7 +24,7 @@
 
     <figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-    Next, click the '1/2' drop down menu underneath and select '17/18' for both audio tracks.
+    Next, click the '1/2' drop down menu underneath and select '17/18' (possibly 19'/20' in other daws) for both audio tracks.
 
     <figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
