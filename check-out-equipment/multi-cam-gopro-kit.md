@@ -3,6 +3,22 @@ description: >-
   This page will run you through using the Multi-Cam GoPro Kit, which includes 3
   Action cameras that can be used for multi-camera/live-performance video
   productions, all in a small, easy-to-carry kit.
+cover: ../.gitbook/assets/Screenshot 2024-04-09 at 3.18.41 PM.png
+coverY: 129.35466666666665
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Multi-Cam GoPro Kit
