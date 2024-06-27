@@ -8,4 +8,4 @@ Welcome! This site houses resources created by the Creative Technology team of t
 
 Many of the resources found hear are stand-alone guides that don't directly connect to other content. Other resources constitute introductions to topics or equipment are grouped accordingly.&#x20;
 
-If you have questions or concerns please reachout via our main website: https://go.brown.edu/mml
+If you have concerns or questions please reachout via our main website: https://go.brown.edu/mml
