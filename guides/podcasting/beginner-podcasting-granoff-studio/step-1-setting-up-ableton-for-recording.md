@@ -1,4 +1,4 @@
-# STEP 1: Setting up Ableton for Recording
+# 🖥️ STEP 1: Setting up Ableton for Recording
 
 1. Launch Ableton Live
 
