@@ -16,7 +16,6 @@
     * [Prototyping VR via Oculus Link](guides/virtual-reality/virtual-reality-with-unity-getting-started/prototyping-vr-via-oculus-link.md)
 * [🎙️ Podcasting](guides/podcasting/README.md)
   * [🎤 Beginner Podcasting: Granoff Studio](guides/podcasting/beginner-podcasting-granoff-studio/README.md)
-    * [🖥️ STEP 1: Setting up Ableton for Recording](guides/podcasting/beginner-podcasting-granoff-studio/step-1-setting-up-ableton-for-recording.md)
     * [🎙️ STEP 2: Microphone Set Up](guides/podcasting/beginner-podcasting-granoff-studio/step-2-microphone-set-up.md)
     * [🎧 STEP 3: Headphones Set Up](guides/podcasting/beginner-podcasting-granoff-studio/step-3-headphones-set-up.md)
     * [🎚️ STEP 4: Setting Level and Recording](guides/podcasting/beginner-podcasting-granoff-studio/step-4-setting-level-and-recording.md)
