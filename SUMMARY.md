@@ -21,6 +21,8 @@
     * [🎚️ STEP 4: Setting Level and Recording](guides/podcasting/beginner-podcasting-granoff-studio/step-4-setting-level-and-recording.md)
     * [🎛️ 3 Person Podcasting / Using the Tracking Room](guides/podcasting/beginner-podcasting-granoff-studio/3-person-podcasting-using-the-tracking-room.md)
     * [📕 Glossary](guides/podcasting/beginner-podcasting-granoff-studio/glossary.md)
+    * [STEP 1: Setting up Ableton for Recording](guides/podcasting/beginner-podcasting-granoff-studio/step-1-setting-up-ableton-for-recording.md)
+    * [STEP 1: Setting up Ableton for Recording](guides/podcasting/beginner-podcasting-granoff-studio/step-1-setting-up-ableton-for-recording-1.md)
   * [📱 iPhone/Smartphone Podcasting Cheat Sheet](guides/podcasting/iphone-smartphone-podcasting-cheat-sheet/README.md)
     * [🗣️ Basic tips for interviewing](guides/podcasting/iphone-smartphone-podcasting-cheat-sheet/basic-tips-for-interviewing.md)
     * [🤳 Using Your Phone to Record](guides/podcasting/iphone-smartphone-podcasting-cheat-sheet/using-your-phone-to-record.md)
