@@ -1,5 +1,16 @@
 ---
 description: Compose and play music when connected to music software
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # MIDI keyboards
