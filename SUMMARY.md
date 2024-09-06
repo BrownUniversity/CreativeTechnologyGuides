@@ -1,6 +1,35 @@
 # Table of contents
 
 * [Creative Technology](README.md)
+* [Page](page.md)
+
+## Wayfinding
+
+* [Flatbed scanner](wayfinding/flatbed-scanner.md)
+* [MIDI keyboards](wayfinding/midi-keyboards.md)
+* [Tablet displays](wayfinding/tablet-displays.md)
+
+## Cheatsheets
+
+* [🖨️ Printing to the Epson Stylus P9000](cheatsheets/printing-to-the-epson-stylus-p9000.md)
+
+## Check-Out Equipment
+
+* [Mobile Recording Kit](check-out-equipment/mobile-recording-kit.md)
+* [Camera Kit](check-out-equipment/camera-kit/README.md)
+  * [Basic Operations](check-out-equipment/camera-kit/camera-kit-video.md)
+  * [Video Setup for Recording Humans](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/README.md)
+    * [Audio Set Up](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/audio-set-up.md)
+    * [Custom Mode 1 Settings: A Reference](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/custom-mode-1-settings-a-reference.md)
+* [Manfrotto Befree Tripod](check-out-equipment/manfrotto-befree-tripod.md)
+* [Neewer 3 Point Light Kit](check-out-equipment/neewer-light-kit.md)
+* [Mini LED 3 Point Light Kits](check-out-equipment/mini-led-3-point-light-kits.md)
+* [Audio Kit](check-out-equipment/audio-kit/README.md)
+  * [Set up and Recording Operation](check-out-equipment/audio-kit/set-up-and-recording-operation.md)
+  * [Transferring Files + Audio Interface Setup](check-out-equipment/audio-kit/transferring-files-+-audio-interface-setup.md)
+* [Basic Recorder Kit](check-out-equipment/basic-recorder-kit.md)
+* [GoPro Kit](check-out-equipment/gopro-kit.md)
+* [Multi-Cam GoPro Kit](check-out-equipment/multi-cam-gopro-kit.md)
 
 ## Guides
 
@@ -37,28 +66,6 @@
   * [📈 Compressor Basics](logic-pro-x-basics/compressor-basics.md)
   * [🥁 Drum programming with Ultrabeat](logic-pro-x-basics/drum-programming-with-ultrabeat.md)
   * [💪 Using Flex Time](logic-pro-x-basics/using-flex-time.md)
-
-## Cheatsheets
-
-* [🖨️ Printing to the Epson Stylus P9000](cheatsheets/printing-to-the-epson-stylus-p9000.md)
-
-## Check-Out Equipment
-
-* [Mobile Recording Kit](check-out-equipment/mobile-recording-kit.md)
-* [Camera Kit](check-out-equipment/camera-kit/README.md)
-  * [Basic Operations](check-out-equipment/camera-kit/camera-kit-video.md)
-  * [Video Setup for Recording Humans](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/README.md)
-    * [Audio Set Up](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/audio-set-up.md)
-    * [Custom Mode 1 Settings: A Reference](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/custom-mode-1-settings-a-reference.md)
-* [Manfrotto Befree Tripod](check-out-equipment/manfrotto-befree-tripod.md)
-* [Neewer 3 Point Light Kit](check-out-equipment/neewer-light-kit.md)
-* [Mini LED 3 Point Light Kits](check-out-equipment/mini-led-3-point-light-kits.md)
-* [Audio Kit](check-out-equipment/audio-kit/README.md)
-  * [Set up and Recording Operation](check-out-equipment/audio-kit/set-up-and-recording-operation.md)
-  * [Transferring Files + Audio Interface Setup](check-out-equipment/audio-kit/transferring-files-+-audio-interface-setup.md)
-* [Basic Recorder Kit](check-out-equipment/basic-recorder-kit.md)
-* [GoPro Kit](check-out-equipment/gopro-kit.md)
-* [Multi-Cam GoPro Kit](check-out-equipment/multi-cam-gopro-kit.md)
 
 ## Camera Kit Set Up for Video Recording Humans
 
