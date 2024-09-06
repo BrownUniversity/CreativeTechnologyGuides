@@ -9,6 +9,7 @@
 * [MIDI keyboards](wayfinding/midi-keyboards.md)
 * [Tablet displays](wayfinding/tablet-displays.md)
 * [Title](wayfinding/title.md)
+* [Copy of Title](wayfinding/copy-of-title.md)
 
 ## Cheatsheets
 
