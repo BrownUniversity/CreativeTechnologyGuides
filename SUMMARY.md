@@ -8,6 +8,7 @@
 * [Flatbed scanner](wayfinding/flatbed-scanner.md)
 * [MIDI keyboards](wayfinding/midi-keyboards.md)
 * [Tablet displays](wayfinding/tablet-displays.md)
+* [Title](wayfinding/title.md)
 
 ## Cheatsheets
 
