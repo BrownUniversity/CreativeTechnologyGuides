@@ -1,5 +1,16 @@
 ---
 description: Draw, sculpt or retouch with provided stylus and monitor.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # Tablet displays
