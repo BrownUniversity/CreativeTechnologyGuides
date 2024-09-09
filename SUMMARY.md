@@ -12,6 +12,7 @@
 * [MIDI keyboards](wayfinding/midi-keyboards.md)
 * [Tablet displays](wayfinding/tablet-displays.md)
 * [Title](wayfinding/title.md)
+* [Projector, Granoff Multimedia Lab](wayfinding/projector-granoff-multimedia-lab.md)
 
 ## Cheatsheets
 
