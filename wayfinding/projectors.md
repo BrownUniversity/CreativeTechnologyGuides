@@ -36,7 +36,7 @@ Details
 
 1.
 
-#### Phyiscal Media Lab
+#### Physical Media Lab
 
 1.
 
