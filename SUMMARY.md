@@ -5,11 +5,12 @@
 
 ## Wayfinding
 
+* [Ableton Push](wayfinding/ableton-push.md)
 * [Flatbed scanner](wayfinding/flatbed-scanner.md)
 * [MIDI keyboards](wayfinding/midi-keyboards.md)
 * [Tablet displays](wayfinding/tablet-displays.md)
 * [Title](wayfinding/title.md)
-* [Copy of Title](wayfinding/copy-of-title.md)
+* [Animation station](wayfinding/animation-station.md)
 
 ## Cheatsheets
 
