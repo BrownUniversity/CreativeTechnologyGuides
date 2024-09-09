@@ -10,11 +10,11 @@
 * [Electronics workstation](wayfinding/electronics-workstation.md)
 * [Flatbed scanner](wayfinding/flatbed-scanner.md)
 * [MIDI keyboards](wayfinding/midi-keyboards.md)
+* [Projectors](wayfinding/projectors.md)
+* [Recording Studio microphones](wayfinding/recording-studio-microphones.md)
+* [Recording Studio patch bay](wayfinding/recording-studio-patch-bay.md)
 * [Tablet displays](wayfinding/tablet-displays.md)
 * [Title](wayfinding/title.md)
-* [Recording Studio patch bay](wayfinding/recording-studio-patch-bay.md)
-* [Recording Studio microphones](wayfinding/recording-studio-microphones.md)
-* [Projectors](wayfinding/projectors.md)
 
 ## Cheatsheets
 
