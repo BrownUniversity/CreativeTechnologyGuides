@@ -12,7 +12,7 @@
 * [MIDI keyboards](wayfinding/midi-keyboards.md)
 * [Tablet displays](wayfinding/tablet-displays.md)
 * [Title](wayfinding/title.md)
-* [Projector](wayfinding/projector.md)
+* [Projectors](wayfinding/projectors.md)
 
 ## Cheatsheets
 
