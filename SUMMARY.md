@@ -12,6 +12,7 @@
 * [MIDI keyboards](wayfinding/midi-keyboards.md)
 * [Tablet displays](wayfinding/tablet-displays.md)
 * [Title](wayfinding/title.md)
+* [Projector, Grad Center Multimedia Lab](wayfinding/projector-grad-center-multimedia-lab.md)
 * [Projector, Granoff Multimedia Lab](wayfinding/projector-granoff-multimedia-lab.md)
 
 ## Cheatsheets
