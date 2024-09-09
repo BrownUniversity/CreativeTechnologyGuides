@@ -13,7 +13,7 @@
 * [Projectors](wayfinding/projectors.md)
 * [Recording Studio microphones](wayfinding/recording-studio-microphones.md)
 * [Recording Studio patch bay](wayfinding/recording-studio-patch-bay.md)
-* [Recording Studio Pre amps](wayfinding/recording-studio-pre-amps.md)
+* [Recording Studio preamps](wayfinding/recording-studio-preamps.md)
 * [Tablet displays](wayfinding/tablet-displays.md)
 * [Title](wayfinding/title.md)
 
