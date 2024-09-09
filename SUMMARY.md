@@ -12,6 +12,7 @@
 * [MIDI keyboards](wayfinding/midi-keyboards.md)
 * [Tablet displays](wayfinding/tablet-displays.md)
 * [Title](wayfinding/title.md)
+* [Recording Studio microphones](wayfinding/recording-studio-microphones.md)
 * [Projectors](wayfinding/projectors.md)
 
 ## Cheatsheets
