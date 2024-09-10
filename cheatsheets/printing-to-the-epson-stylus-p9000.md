@@ -12,14 +12,14 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
     visible: false
 ---
 
-# 🖨 Printing to the Epson Stylus P9000
+# 🖨️ Printing to the Epson Stylus P9000
 
 **BEFORE using the printer you must**:
 
@@ -69,13 +69,13 @@ If there happen to be other variations of this name, they will likely not functi
 
 _(the screenshots below may show a different name, please ignore)_
 
-### 2. Color handling <a href="#_8fyl8oaxcd7o" id="_8fyl8oaxcd7o"></a>
+### 2. Color handling <a href="#id-8fyl8oaxcd7o" id="id-8fyl8oaxcd7o"></a>
 
 Choose _**Photoshop Manages Colors**_.
 
 In general, Photoshop offers more control than the printer’s color management settings. One exception is when printing Black and White photographs which can use the printer’s “Advance Black and White” setting.
 
-### 3. Printer Profile <a href="#_idiq8243anp3" id="_idiq8243anp3"></a>
+### 3. Printer Profile <a href="#idiq8243anp3" id="idiq8243anp3"></a>
 
 You must set the printer profile to match the paper type. For the profiles for the provided paper are:
 
@@ -88,7 +88,7 @@ If you are using your own paper, profiles can often be found online. Email [mml@
 
 _\*You can turn on **Corner and Center Crop Marks** under the **Printing Marks section** of the print window. It is often helpful if there is a white border on your print._
 
-### 4. Print settings <a href="#_l3ykjhsr26e3" id="_l3ykjhsr26e3"></a>
+### 4. Print settings <a href="#l3ykjhsr26e3" id="l3ykjhsr26e3"></a>
 
 <figure><img src="../.gitbook/assets/Cheatsheet_04.png" alt="" width="375"><figcaption></figcaption></figure>
 
