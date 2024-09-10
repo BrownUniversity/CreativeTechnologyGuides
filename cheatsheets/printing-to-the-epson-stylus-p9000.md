@@ -26,7 +26,7 @@ layout:
 * [ ] Complete the online quiz
 * [ ] Meet with a Creative Technology Assistant
 
-For more information go to [https://go.brown.edu/mml-printing](https://go.brown.edu/mml-printing)
+For more information go to [https://go.brown.edu/cats-fineartprinter](https://go.brown.edu/cats-fineartprinter)
 
 ## Print from a lab computer
 
@@ -84,7 +84,7 @@ You must set the printer profile to match the paper type. For the profiles for t
 
 <figure><img src="../.gitbook/assets/Cheatsheet_03b (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-If you are using your own paper, profiles can often be found online. Email [mml@brown.edu](mailto:mml@brown.edu) if you need help finding a paper profile. **All paper must be approved by the staff before using.**
+If you are using your own paper, profiles can often be found online. Email [cats@brown.edu](https://app.gitbook.com/u/op6OPpaeuqN72UzaNbpPwDLQUuh1) if you need help finding a paper profile. **All paper must be approved by the staff before using.**
 
 _\*You can turn on **Corner and Center Crop Marks** under the **Printing Marks section** of the print window. It is often helpful if there is a white border on your print._
 
