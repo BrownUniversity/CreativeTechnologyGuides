@@ -38,6 +38,7 @@
 * [Basic Recorder Kit](check-out-equipment/basic-recorder-kit.md)
 * [GoPro Kit](check-out-equipment/gopro-kit.md)
 * [Multi-Cam GoPro Kit](check-out-equipment/multi-cam-gopro-kit.md)
+* [Podcasting Kit](check-out-equipment/podcasting-kit.md)
 
 ## Guides
 
