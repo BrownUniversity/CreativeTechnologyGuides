@@ -144,7 +144,7 @@ It’s important before starting any conversation, any podcast, any recording to
 
 
 
-### DYNAMIC VS CONDENSER SETTINGS
+### Dynamic vs Condenser Settings
 
 IMPORTANT: The Zoom Pod Mics are Dynamic microphones, therefore they do not require Phantom Power. Make sure it is on the first setting. NOT the microphone with the little electric symbol. Doing so could damage the device.&#x20;
 
