@@ -157,7 +157,7 @@ _**There are 4 settings for the lowcut filter, including OFF. To change those se
 
 1. Press the "lo cut" button under the right side of the LCD screen.
 2. Press the lo cut button again to choose between 80hz, 160hz, 240hz, and off
-   * We recommend 80hz, as that is lower than most human voices, so it shouldn't affect quality when recording dialouge or voice over. The move aggressive (high number) the filter, the more likely you could be cutting out something you want, or possibly distoring the sound in general.&#x20;
+   * We recommend 80hz, as that is lower than most human voices, so it shouldn't affect quality when recording dialogue or voice over. The move aggressive (high number) the filter, the more likely you could be cutting out something you want, or possibly distoring the sound in general.&#x20;
 3. The menu will disappear on its own once you stop pressing the lo cut button
 
 
