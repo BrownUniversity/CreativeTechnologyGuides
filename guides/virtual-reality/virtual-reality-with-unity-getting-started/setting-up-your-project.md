@@ -16,7 +16,7 @@ In Unity Hub create a new project with the **3D (URP)** template. Give it a name
 
 1. Go to the menu item **Window > Package Manager**&#x20;
 2. Switch Packages from _In Project_ to **Unity Registry**\
-   ![](<../../../.gitbook/assets/002\_UnityRegistry (2).png>)
+   ![](<../../../.gitbook/assets/002_UnityRegistry (2).png>)
 3. Under _Features_ install:
    * **VR** (2 packages)
 4. After installing you will be prompted with a warning: "Do you want to enable the backends?" Click **"Yes"**
@@ -58,13 +58,13 @@ These instructions are for Mac development.
    ![](../../../.gitbook/assets/LeftHandController.png)
 3. On the _XR Controller (Action-based)_ component of the LeftHandController click the preset menu and choose: **XRI Default Left Controller**.\
    ![](<../../../.gitbook/assets/ControllerPresets (1).png>)
-4. Repeat the above for the _RightHandController_ choosing the _XRI Default Right Controller_ preset_._
+4. Repeat the above for the _RightHandController_ choosing the _XRI Default Right Controller_ prese&#x74;_._
 
 ### Adding controller models
 
 You can add models for physical controller to help show where they are in space by adding a mesh object or prefab object.
 
-Unity provides generic controller objects for the left and right hand _XR Interaction Toolkit > \[VERSION] > Starter Assets > Prefabs > XR Origin Pieces > XR Controller Left_ (and Right). Meta provides [3D models](https://developer.oculus.com/downloads/package/oculus-controller-art/?locale=en\_GB) of their physical controllers.
+Unity provides generic controller objects for the left and right hand _XR Interaction Toolkit > \[VERSION] > Starter Assets > Prefabs > XR Origin Pieces > XR Controller Left_ (and Right). Meta provides [3D models](https://developer.oculus.com/downloads/package/oculus-controller-art/?locale=en_GB) of their physical controllers.
 
 1. Add your model or prefab as a child of your _LeftHandController_ object. Make sure the nested models Transform position is set to (x: 0, y: 0, z: 0). If you add the object directly from the your _Project Assets_ it should be positioned correctly.
 2.  After nesting your model in the _LeftHandController_ object, select the _LeftHandController_ and in the inspector find the section labeled _Model_ in the _XR Controller_ component. Click and drag the controller model from the heirarchy into the drop down box labeled **Model Prefab**.\

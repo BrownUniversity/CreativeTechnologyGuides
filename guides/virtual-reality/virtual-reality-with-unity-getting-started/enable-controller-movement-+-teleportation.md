@@ -19,9 +19,9 @@ description: >-
 * In the Hierarchy select **the XR Origin Game Object**_._
 * Click on the **Add Component** button. Search and select the **Continuous Move Provider**
 
-#### Within the Continuous Move Provider component**:**
+#### Within the Continuous Move Provider componen&#x74;**:**
 
-* Drag the **XR Origin Game Object** in the _Hierarchy_ into the S_ystem_ drop-down box.&#x20;
+* Drag the **XR Origin Game Object** in the _Hierarchy_ into the &#x53;_&#x79;stem_ drop-down box.&#x20;
 * Check-on **Enable Strafe**
 *   Under the _Left-Hand Move Action,_ Check-on **Use Reference**
 
@@ -36,9 +36,9 @@ description: >-
 * Click on the **Add Component** button. Search and select the **Continuous Turn Provider**
 *
 
-    #### Within the Continuous Turn Provider component**:**
+    #### Within the Continuous Turn Provider componen&#x74;**:**
 
-    * Drag the **XR Origin Game Object** in the _Hierarchy_ into the S_ystem_ drop-down box.&#x20;
+    * Drag the **XR Origin Game Object** in the _Hierarchy_ into the &#x53;_&#x79;stem_ drop-down box.&#x20;
     * Set _Turn Speed_ to **60.**&#x20;
       * Lower the number if you tend to get dizzy or nauseous
     *

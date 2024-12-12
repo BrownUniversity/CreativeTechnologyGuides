@@ -23,7 +23,7 @@ layout:
 
 # Set up and Recording Operation
 
-#### [**Zoom M4 Manual**](https://zoomcorp.com/media/documents/E\_M4\_3.pdf)
+#### [**Zoom M4 Manual**](https://zoomcorp.com/media/documents/E_M4_3.pdf)
 
 ## Setting up Tabletop Tripod
 
@@ -33,19 +33,7 @@ layout:
 4. Splay out the tripod feet and place it facing the onboard mics toward the subject of the recording
 5. The side screw on the ball head can be loosened and tightened to for more specific positioning of  the M4 recorder.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Tripod + Ball Head.png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Tripod Assembled.png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Fully Assembled Tabletop.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/Tripod + Ball Head.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Tripod Assembled.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Fully Assembled Tabletop.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The Tabletop Tripod can also be used as a versatile pistol grip for field recordings
 
@@ -53,15 +41,7 @@ The Tabletop Tripod can also be used as a versatile pistol grip for field record
 
 ## Zoom M4 Diagram + LayOut
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Zoom M4 Diagram Layout.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Zoom M4 Layout Bottom.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/Zoom M4 Diagram Layout.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Zoom M4 Layout Bottom.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Adding and Removing The Batteries
 
@@ -73,19 +53,7 @@ To add to remove the batteries:
 2. Pull the battery door out, revealing the carriage where the batteries can removed or added.&#x20;
 3. Add fully charged batteries to the carriage, then insert the carriage into the M4 and turn the lock screw clockwise until the carriage is again secure.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Zoom m4 backbottom copy.png" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Zoom M4 Battery Carriage Door copy.png" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Battery Charger.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/Zoom m4 backbottom copy.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Zoom M4 Battery Carriage Door copy.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Battery Charger.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Basic Operations
 
@@ -95,15 +63,7 @@ To add to remove the batteries:
    * It is not a traditional button.&#x20;
 2. &#x20;pull the power slider down and hold to either turn the zoom on or off
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 2.04.11 PM.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/TurnOn.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 2.04.11 PM.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/TurnOn.gif" alt=""><figcaption></figcaption></figure></div>
 
 ### Starting and Stopping a Recording
 
@@ -117,15 +77,7 @@ To add to remove the batteries:
    * Pressing the record button will add a marker to audio, but it will continue to record
    * if you need to pause your recording, press the play/pause button&#x20;
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 2.20.36 PM.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Recording and Stopping.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 2.20.36 PM.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Recording and Stopping.gif" alt=""><figcaption></figcaption></figure></div>
 
 ### Playback
 
@@ -139,15 +91,7 @@ To listen back to your recordings:
 5. Press the stop button to exit playback mode
 6.
 
-    <div>
-
-    <figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 2.31.22 PM (1).png" alt=""><figcaption></figcaption></figure>
-
-     
-
-    <figure><img src="../../.gitbook/assets/Playback.gif" alt=""><figcaption></figcaption></figure>
-
-    </div>
+    <div><figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 2.31.22 PM (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Playback.gif" alt=""><figcaption></figcaption></figure></div>
 
 ### Setting your Lowcut Filter
 
@@ -186,15 +130,7 @@ To set your input to Mono or Stereo using the on-board mics:
 
 To access the menu settings press the menu button on the right side of the recorder. Once the menu pops up on the LCD Screen, you will use the Input, two magnifying glasses, and lo cut buttons to navigate:
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 3.17.36 PM.png" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Menu Navigation Buttons.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/Screenshot 2024-01-17 at 3.17.36 PM.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Menu Navigation Buttons.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 * <mark style="background-color:green;">Magnifying Glass Minus</mark> button moves up through the menu options
 * <mark style="background-color:yellow;">Magnifying Glass Plus</mark> button moves down through the menu options

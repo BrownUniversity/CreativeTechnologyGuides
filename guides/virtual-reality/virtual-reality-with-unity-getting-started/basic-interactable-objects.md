@@ -12,7 +12,7 @@ Navigate to the _Left Hand Controller_ in the _Hierarchy_
 
 Find the **XR Ray Interactor** component in the _Inspector_
 
-* If there isn't an _XR Ray Interactor componen_t, add one&#x20;
+* If there isn't an _XR Ray Interactor compone&#x6E;_&#x74;, add one&#x20;
 
 Within XR Ray Interactor component
 
