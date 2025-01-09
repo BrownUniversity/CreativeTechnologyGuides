@@ -4,11 +4,11 @@ description: Zoom F2-BT field recorder
 
 # Field Recorder
 
-The Zoom F2-BT field recorder contains a lav microphone and compact battery powered mic-pack that is perfect for interview, discrete audio recordings, and video. It is more appropriate for more advanced users as it captures 32bit Float audio, which doesn't require you to set the gain, giving you perfect audio that can be adjusted in post but will require more advanced audio editing software such as Adobe Audition to import.&#x20;
+The Zoom F2-BT field recorder contains a lavalier microphone and compact battery powered mic-pack that is perfect for interview, discrete audio recordings, including capturing sound for an actor in a scene. It can be more appropriate for more advanced users as it captures 32bit Float audio, which doesn't require you to set the gain, giving you perfect audio that can be adjusted in post but will require more advanced audio editing software such as Adobe Audition to import and edit the larger files.&#x20;
 
 It records directly to micro SD, SDHC and SDXC cards up to 1 TB
 
-The F2 can record up to 15 hours (14 hours on the F2-BT) with two AAA batteries. (included)
+The F2 can record up to 15 hours (14 hours on the F2-BT) with two fully charged AAA batteries. (included)
 
 [Manual](https://zoomcorp.com/media/documents/E_F2_3.pdf)
 
