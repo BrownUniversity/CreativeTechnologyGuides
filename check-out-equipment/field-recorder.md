@@ -30,6 +30,8 @@ The field recorder comes with
 * A MicroSD Adaptor&#x20;
 * A USB C Chord&#x20;
 
+<figure><img src="../.gitbook/assets/GITBOOK f2 field recorder kit card.jpg" alt=""><figcaption></figcaption></figure>
+
 Once you have located all the parts, you should first ensure that your batteries have received enough charge. Give yourself time beforehand to do so.&#x20;
 
 
