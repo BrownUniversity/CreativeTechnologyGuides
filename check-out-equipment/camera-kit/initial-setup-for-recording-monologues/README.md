@@ -12,9 +12,17 @@ _<mark style="background-color:orange;">**Don't forget to charge your batteries 
 
 * Set Mode Dial to C1 (custom mode 1)
 
-_<mark style="background-color:yellow;">This mode has already been preset with the optimal settings for the type of video recording done with actors, interviews, human subjects, etc (talking head, dramatic monologue, etc)</mark>_
+_<mark style="background-color:yellow;">This mode has already been preset with the optimal settings for the type of video recording done for interviews, human subjects, etc (talking head, interview, etc) at 30fps, 60 shutter speed.</mark>_&#x20;
 
-* Set Focus Mode Dial to C (continuous)
+**OR**
+
+<mark style="color:purple;background-color:red;">If you are filming actors i.e. trying to get a cinematic look</mark>&#x20;
+
+you will set Dial to C2 (custom mode 2)&#x20;
+
+Mode C2 will be preset at 24 frames per second and therefore will have the Shutter speed at 2X that number at 50 preset.
+
+* Set Focus Mode Dial to C (continuous) This will be the preferable setting to shooting anything with varying focus, a piece with movement etc. You may prefer the (S) "Still" setting for a scene with a single focus. In the C2 setting you will still be able to manually focus if you so choose, even without toggling to the (MF) setting.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Mode Dial and Focus Mode.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,6 +70,32 @@ The aperture setting (denoted by f/ number) determines the depth of field of you
 <mark style="background-color:yellow;">Tip: if you are in a darker setting, use a smaller aperture number. the smaller the number, the more light is let into the camera</mark>&#x20;
 
 
+
+***
+
+**For More Advanced Use**
+
+Should you not be satisfied with the settings in C1 or C2 and desire to change to something manually, you will want to set the large dial to the (CameraM) icon. From there you go through in the menu and change the Photo Style, including using the V-Log setting for low color saturation that is easier to "color correct" in post.&#x20;
+
+The C1 and C2 settings are both set to 4K but for those looking to attempt it, the camera does shoot in 6K, as well as shooting in higher frame rates for projects that would be edited into slow-motion, for example.&#x20;
+
+**Image Stabilization**&#x20;
+
+Image stabilization is a technology that allows the shakiness of doing a tracking shot (such as following someone walking) to be minimized or even eliminated in some cases.&#x20;
+
+The C1 & C2 settings have been set to the "Normal (Picture of shaking hand)" setting as you can  see in the top "Operation Mode" setting.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2025-01-16 at 4.40.55 PM.png" alt=""><figcaption></figcaption></figure>
+
+If you scroll down to **E-Stablization (Video)** this is a technology where the image is very slightly cropped to account for any movement and digitally adjusted. This is useful for tracking i.e. walking, physical action shots.&#x20;
+
+**Boost I.S (Video)** is a more extreme version of E-Stabilization that can be less recommended for tracking shots because of it blurring the edges of the video. However if you're looking to mimic a tripod shot, without a tripod, you can use this setting to great effect.&#x20;
+
+The video below does a good job of going over these features as well as showing footage of them in practice.&#x20;
+
+
+
+{% embed url="https://youtu.be/LjV6M6WS9Qg?si=RGGZ3X9JNnfHyQfT" %}
 
 {% content-ref url="audio-set-up.md" %}
 [audio-set-up.md](audio-set-up.md)
