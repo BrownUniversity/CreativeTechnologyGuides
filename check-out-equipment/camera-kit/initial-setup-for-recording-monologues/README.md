@@ -1,7 +1,7 @@
 ---
 description: >-
   This page will share the optimal settings and parameters for shooting actors,
-  scenes, and monologues when using our supplied settings in Custom Mode 1
+  scenes, and monologues when using our supplied settings in Custom Mode 1 or 2
 ---
 
 # Video Setup for Recording Humans
@@ -18,7 +18,7 @@ _<mark style="background-color:yellow;">This mode has already been preset with t
 
 <mark style="color:purple;background-color:red;">If you are filming actors i.e. trying to get a cinematic look</mark>&#x20;
 
-you will set Dial to C2 (custom mode 2)&#x20;
+you will set Dial to C2 (Custom mode 2)&#x20;
 
 Mode C2 will be preset at 24 frames per second and therefore will have the Shutter speed at 2X that number at 50 preset.
 
@@ -51,7 +51,7 @@ _<mark style="background-color:yellow;">**Metering Modes**</mark> <mark style="b
 
 ### Shutter Setting: Why and How
 
-Your Custom Mode 1 settings has the camera recording at 4K, 72Mbps, 10 bit color, and **30fps**. For this reason _**your shutter should always be set to 1/60th of second.**_ This is because your shutter speed denominator is always set to twice the value of your fps or frames per second. So a 24 fps (cinematic) would require a shutter speed of 1/50th. A 60 fps (hyper-real) require a shutter speed of 1/120th, and so on
+Your Custom Mode 1 settings has the camera recording at 4K, 72Mbps, 10 bit color, and **30fps**. For this reason at this mode _**your shutter should always be set to 1/60th of second.**_ This is because your shutter speed denominator is always set to twice the value of your fps or frames per second. So a 24 fps (cinematic) would require a shutter speed of 1/50th. A 60 fps (hyper-real) require a shutter speed of 1/120th, and so on
 
 **To set your shutter speed to 1/60th** turn the **rear dial** until you see the number 60 in the lower right of your LCD display
 
@@ -77,7 +77,9 @@ The aperture setting (denoted by f/ number) determines the depth of field of you
 
 Should you not be satisfied with the settings in C1 or C2 and desire to change to something manually, you will want to set the large dial to the (CameraM) icon. From there you go through in the menu and change the Photo Style, including using the V-Log setting for low color saturation that is easier to "color correct" in post.&#x20;
 
-The C1 and C2 settings are both set to 4K but for those looking to attempt it, the camera does shoot in 6K, as well as shooting in higher frame rates for projects that would be edited into slow-motion, for example.&#x20;
+The C1 is set to 4K but for those looking to attempt it, the camera does shoot in 6K, as well as shooting in higher frame rates for projects that would be edited into slow-motion, for example.&#x20;
+
+The C2 is set to Full HD, a lower setting to allow for smaller file sizes and greater flexibility in editing. Keep that in mind should you want to set it at 4K or greater. You may want to manually configure (M setting) so that you don't reset to FullHD when you shut off in the C2 setting.&#x20;
 
 **Image Stabilization**&#x20;
 
