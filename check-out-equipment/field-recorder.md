@@ -1,10 +1,12 @@
 ---
-description: Zoom F2-BT field recorder
+description: Zoom F2-BT & Zoom F2 field recorder
 ---
 
 # Field Recorder
 
-The Zoom F2-BT field recorder contains a lavalier microphone and compact battery powered mic-pack that is perfect for interview, discrete audio recordings, including capturing sound for an actor in a scene. It can be more appropriate for more advanced users as it captures 32bit Float audio, which doesn't require you to set the gain, giving you perfect audio that can be adjusted in post but will require more advanced audio editing software such as Adobe Audition to import and edit the larger files.&#x20;
+The Zoom F2(-BT) field recorder contains a lavalier microphone and compact battery powered mic-pack that is perfect for interview, discrete audio recordings, including capturing sound for an actor in a scene. It can be more appropriate for more advanced users as it captures 32bit Float audio, which doesn't require you to set the gain, giving you perfect audio that can be adjusted in post but will require more advanced audio editing software such as Adobe Audition to import and edit the larger files.&#x20;
+
+Note\* the BT version allows for Remote Bluetooth Recording, whereas the F2 version does not have this functionality.&#x20;
 
 It records directly to micro SD, SDHC and SDXC cards up to 1 TB
 
@@ -22,7 +24,7 @@ The F2 can record up to 15 hours (14 hours on the F2-BT) with two fully charged 
 
 The field recorder comes with
 
-* The Zoom F2-BT Mic Pack
+* The Zoom F2 or F2-BT Mic Pack
 * The Lav Microphone with Clip and Windscreen
 * Headphones
 * 4 AAA rechargeable batteries and battery charger&#x20;
@@ -89,5 +91,5 @@ You should not enable the low-cut feature if you're recording general ambient no
 ### Finishing Up
 
 * Use the enlosed transfer cable to import your sound files into your computer.&#x20;
-* Turn the F2 BT on to initiate transfer.&#x20;
+* Turn the F2 or F2 BT on to initiate transfer.&#x20;
 * Back-up your files and format/delete the files on the SD card before returning it so that you keep your files private.&#x20;
