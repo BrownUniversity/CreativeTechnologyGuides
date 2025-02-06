@@ -26,7 +26,7 @@ description: Everything you need to get optimal "on-set sound"
 
 <figure><img src="../../.gitbook/assets/c0542d0a-6b25-48a3-8644-d901fd69b1bf.webp" alt="" width="375"><figcaption><p>AT897</p></figcaption></figure>
 
-The AT897 is a "shotgun" or "highly directional mic" meaning it records primarily what is right at the end of its capsule, making it perfect for on-set recordings, pointed at an actors face for example (out of view of camera of course.) The bottom of it unscrews to contain a 1.5 AA battery but also can use "phantom" power meaning it draws its electricity from the interface it is connected to, or in the case of the Beachtek adaptor, from the camera that is connected to the Beachtek interface.&#x20;
+The AT897 is a "shotgun" or "highly directional mic" meaning it records primarily what is right at the end of its capsule, making it perfect for on-set recordings, pointed at an actors face for example (out of view of camera of course.) The bottom of it unscrews to contain a 1.5V AA battery but also can use "phantom" power meaning it draws its electricity from the interface it is connected to, or in the case of the Beachtek adaptor, from the camera that is connected to the Beachtek interface.&#x20;
 
 
 
@@ -44,22 +44,22 @@ The LYX PRO Boom is fairly self-explanatory. The grippable and rounded notches u
 
 A shock mount screws to the top of the Boom Pole or slides into the mic "shoe". ontop of the camera, and has an adjustable nob to change the axis of the microphone.&#x20;
 
-When affixing to the top of the camera, unscrew the bottom wheel at the base of the mount until you can easily slide into the mic shoe
+When affixing to the top of the camera, unscrew the bottom wheel at the base of the mount until you can easily slide into the mic shoe. Once in place, screw the bottom wheel until tight.&#x20;
 
 <figure><img src="../../.gitbook/assets/Panasonic_Lumix_S5II-04_PC141635-acr copy.jpg" alt="" width="563"><figcaption><p>lumix. hello "shoe"</p></figcaption></figure>
 
-In the case of boom pole use. make sure the adjustable nob is firmly set so that the mic does not accidentally tilt down and hit someone or something.&#x20;
+In the case of boom pole use, make sure the adjustable nob is firmly set so that the mic does not accidentally tilt down and hit someone or something.&#x20;
 
-<mark style="background-color:red;">Slide the mic</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**XLR input side first**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">into the rubber shock mount</mark>, until the capsule (the part picking up sound with little grooves) is free on the other side. You can then attach the XLR cable once it is a in a good position.&#x20;
+<mark style="background-color:red;">To insert the mic in place, slide the mic</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**XLR input side first**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">into the rubber shock mount</mark>, until the capsule (the part picking up sound with little grooves) is free on the other side. You can then attach the XLR cable once it is a in a good position.&#x20;
 
-<figure><img src="../../.gitbook/assets/HTB1Mt0yQpXXXXaEXXXXq6xXFXXXB.webp" alt=""><figcaption><p>placement of the microphone in shockmount</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/HTB1Mt0yQpXXXXaEXXXXq6xXFXXXB.webp" alt="" width="375"><figcaption><p>placement of the microphone in shockmount</p></figcaption></figure>
 
 \
 
 
 ## BeachTek DXA-2T XLR Adaptor
 
-<figure><img src="../../.gitbook/assets/BEA101.superZoom.a.jpg" alt="" width="375"><figcaption><p>Beachtek</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/BEA101.superZoom.a.jpg" alt="" width="375"><figcaption><p>Beachtek in Beachy-Blue</p></figcaption></figure>
 
 ## How Do I Use This?
 
@@ -74,7 +74,7 @@ In the case of boom pole use. make sure the adjustable nob is firmly set so that
 
 ![](https://content3.bloomfire.com/thumbnails/contents/000/826/245/original.png?f=1496353432\&Expires=1738859983\&Signature=jsGHONKetnTQEfInk-sG29JlLqKPZAvbjF5RHGD9q1nhCua11JfokJb1FeP8GIfS8t8XIkWktfjHbGgsJlciNiDgk0U5QC5bDEZY86NWCgS5G251XLSk1sAwFXzi~uFluHJcgmf-spZ1cRvc8gflJwOXKwbadD4l3Gq3Xr14ryPHRvah~9w1zyUkwOqduq1t~MRRP4GPWEQCPO1sHXtORRJw0dtbI0sBmnJ3QGCq-RSQlJKhVGjmPzCXspMN5dvDwj6VcoiznyMeBNfiXg~B4iNkNW8f2IH18RXxNRWE~-uFbhz4tYEsrPsZin8WeYsrIUPCr9QqNK~bEkjybb139w__\&Key-Pair-Id=APKAIDFCFZ2UHE5LPIUA)User Interface: Side
 
-6\. **XLR Inputs:** Ports to attach 2 XLR cords with mics (not included)&#x20;
+6\. **XLR Inputs:** Ports to attach 2 XLR cords with mics&#x20;
 
 ![](https://content0.bloomfire.com/thumbnails/contents/000/826/252/original.png?f=1496353615\&Expires=1738859983\&Signature=BBF05XI~zYiG-4HXSiMVlB~XSnoowNGimxMP4uEwwG-j9iCpvHtJZiM6D~nHk9-AA-~3rVT3mKtFKNHRTGfunWiYEF~FvyFG-o0nC16uuAWkE6ASs-H~3aFfUl8wF51eM40xnDGX6o7FvKmdeNL7SPU~CUf9P5hHicQSKmQjmvDOUjBo85oXKXt-kPdZh7yO0vVujMVD9SzwfprNYrVze2QwR7HZ081DeiX5nN-XNAfK7HiG4AfrzyRl6p-YKBG1r6DI8SgAxhQOR2STWqFZt9wKsHyQ5hsRAxiyyihEvXmhY31WEBu99Bjy3lwOereug3G6EKpxoaqZjNJNpO8ugw__\&Key-Pair-Id=APKAIDFCFZ2UHE5LPIUA)User Interface: Back
 
@@ -92,7 +92,7 @@ The Beachtek adaptor will attach onto the bottom of your camera. Once positioned
 
 <figure><img src="../../.gitbook/assets/lt4sk4glybocvj7ggcbs.jpg" alt="" width="375"><figcaption><p>no cats were harmed in the making...</p></figcaption></figure>
 
-Mostly for windy environments, slide the microphone _capsule first_ snuggly into the opening of the sadly named "Deadcat."The kit also comes with a foam windscreen which can be used to not only limit a casual breeze, but protect the capsule of the microphone.&#x20;
+Mostly for windy environments, slide the microphone _capsule first_ snuggly into the opening of the regrettably named "Deadcat."The kit also comes with a foam windscreen which can be used to not only limit a casual breeze, but protect the capsule of the microphone.&#x20;
 
 
 
