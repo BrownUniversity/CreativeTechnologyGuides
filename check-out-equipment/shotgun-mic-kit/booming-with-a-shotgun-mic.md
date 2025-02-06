@@ -2,7 +2,7 @@
 description: How to be a boom operator
 ---
 
-# Shotgun Mic Use
+# Booming with a Shotgun Mic
 
 <figure><img src="../../.gitbook/assets/filming-a-period-drama-with-a-boom-mic.webp" alt=""><figcaption><p>a boom operator at work</p></figcaption></figure>
 
@@ -38,9 +38,9 @@ If the shot has two actors speaking simulataneously however...
 
 Then the mic may be placed in between the actors and be tilted live to try to capture whomever is speaking, alternating back and forth.&#x20;
 
-Another job the sound person has is setting the "Gain" or the input level of the sound coming from the microphone. A too high gain set will risk having the sound distort (as in if the actor shouts all of a sudden, but too low will mean the audio will have to be enhanced in post and could lose the quality and clarity. The gain is set on the input nobs on the beachtek as well as the in-camera settings.&#x20;
+Another job the sound person has is setting the "Gain" or the input level of the sound coming from the microphone. A too high gain set will risk having the sound distort (as in if the actor shouts all of a sudden,) but too _low_ will mean the audio will have to be enhanced in post editing and could lose the quality and clarity. The gain is set on the input nobs on the beachtek as well as the in-camera settings.&#x20;
 
-<mark style="background-color:red;">HOWEVER. If you are using the M4 Interface, you have the luxury of not having to monitor gain as it uses 32 Bit Float Audio. You still want to place the microphone at an optimal position.</mark>
+&#x20;<mark style="background-color:red;">**If you are using the M4 Interface**</mark><mark style="background-color:red;">, you have the luxury of not having to monitor gain as it uses 32 Bit Float Audio that can be adjusted in post to achieve the optimal sound. You still want to place the microphone at an optimal position, however.</mark>&#x20;
 
 \ <mark style="background-color:red;">PAGE IN PROCESS</mark>
 

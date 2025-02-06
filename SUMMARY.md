@@ -36,7 +36,7 @@
   * [Set up and Recording Operation](check-out-equipment/audio-kit/set-up-and-recording-operation.md)
   * [Transferring Files + Audio Interface Setup](check-out-equipment/audio-kit/transferring-files-+-audio-interface-setup.md)
 * [Shotgun Mic Kit](check-out-equipment/shotgun-mic-kit/README.md)
-  * [Shotgun Mic Use](check-out-equipment/shotgun-mic-kit/shotgun-mic-use.md)
+  * [Booming with a Shotgun Mic](check-out-equipment/shotgun-mic-kit/booming-with-a-shotgun-mic.md)
 * [Basic Recorder Kit](check-out-equipment/basic-recorder-kit.md)
 * [GoPro Kit](check-out-equipment/gopro-kit.md)
 * [Multi-Cam GoPro Kit](check-out-equipment/multi-cam-gopro-kit.md)
