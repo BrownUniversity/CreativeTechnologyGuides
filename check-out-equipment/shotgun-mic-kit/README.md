@@ -18,7 +18,7 @@ description: Everything you need to get optimal "on-set sound"
 
 
 
-<mark style="background-color:red;">A note before beginning. You may check out this kit with the</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**M4 Audio Interface**</mark> \ <mark style="background-color:red;">**AUDIO KIT**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">for truly optimal sound,</mark> <mark style="background-color:red;"></mark>_<mark style="background-color:red;">and</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">to give a sound person the flexibility of not being attached to camera. This means editing sound separately and not having the mic sound directly being recorded into the camera,</mark> <mark style="background-color:red;"></mark>_<mark style="background-color:red;">but</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">will increase the quality.</mark>&#x20;
+<mark style="background-color:red;">A note before beginning. You may check out this kit with the</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**M4 Audio Interface Audio Kit**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">for truly optimal sound,</mark> <mark style="background-color:red;"></mark>_<mark style="background-color:red;">and</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">to give a sound person the flexibility of not being attached to camera. This means editing sound separately and not having the mic sound directly being recorded into the camera,</mark> <mark style="background-color:red;"></mark>_<mark style="background-color:red;">but</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">will increase the quality.</mark>&#x20;
 
 
 
@@ -82,7 +82,7 @@ In the case of boom pole use, make sure the adjustable nob is firmly set so that
 
 <figure><img src="../../.gitbook/assets/images.jpg" alt=""><figcaption><p>the Beachtek Attached</p></figcaption></figure>
 
-The Beachtek adaptor will attach onto the bottom of your camera. Once positioned onto the "tripod thread" (the hole on bottom of the camera,) use a penny or dime to screw in place from the bottom of the Beachtek. Do so until firmly tightened. The beachtek has its own tripod thread then where you can affix the plate for your tripod if you're using one.&#x20;
+The Beachtek adaptor will attach onto the bottom of your camera. Once positioned onto the "tripod thread" (the hole on bottom of the camera,) use a penny or dime or appropriate screwdriver to screw in place from the bottom of the Beachtek. Do so until firmly tightened. The beachtek has its own tripod thread then where you can affix the plate for your tripod if you're using one.&#x20;
 
 <figure><img src="../../.gitbook/assets/shopping.webp" alt="" width="163"><figcaption><p>a tripod plate</p></figcaption></figure>
 
