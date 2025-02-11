@@ -24,13 +24,13 @@ description: 3 Canon Lenses, 1 Sigma & 1 Lumix for shooting in adaptable focal l
 
 Using different lenses achieves vastly different effects of perspective that imply different moods, different intensity and different focus for the viewer. It also allows you to shoot from the distance you wish so that you are neither too far or too close to the actor or the subject.&#x20;
 
-As you can see, the aperture range, or the maximum (which is a lower number) varies depending on the focal length used in the zoom lenses i.e. f/3.5 to f/22 for the 20mm to 60mm kit lens described below. Whereas the prime lens has a fixed maximum, hence the one number such as f/1.8. Keep this in mind when choosing a lens when deciding to shoot in low-light conditions. The lower the number the higher the aperture, the more light is let in, making it better for low-light or nightime shooting.&#x20;
+As you can see, the aperture range, or the maximum (which is a lower number) varies depending on the focal length used in the zoom lenses i.e. f/3.5 to f/22 for the 20mm to 60mm kit lens described below. Whereas the prime lens has a fixed maximum, hence the one number such as f/1.8. Keep this in mind when choosing a lens when deciding to shoot in low-light conditions. The lower the number the larger the aperture, the more light is let in, making it better for low-light or nighttime shooting.&#x20;
 
 ### The lenses in detail
 
 _<mark style="color:purple;">The photos below were all taken from the same distance, unzoomed in the case of the zoom lenses, so at the first focal length.</mark>_&#x20;
 
-_<mark style="color:purple;">Additional note: The ones requiring an adaptor are available for check-out with the lens.</mark>_&#x20;
+_<mark style="color:purple;">Additional note: The ones requiring an adaptor are available for check-out along with the lens.</mark>_&#x20;
 
 The first lens, that comes with the Lumix (the kit lens) is a
 
@@ -105,7 +105,7 @@ Prime (fixed focal length) lens, suited for both portraits and landscape. With a
 
 "Known as the “nifty 50,” the 50mm lens is a prime lens that can represent how the human eye sees objects and people in a natural setting. They are both affordable and lightweight, making them ideal for handheld filmmaking. However, first-time users should consider using <mark style="background-color:red;">stabilizers\*</mark> or gimbals (pivoting support for [camera operators](https://www.masterclass.com/articles/film-careers-how-to-become-a-camera-operator)) for greater image stabilization. A 50mm lens can also create the bokeh effect, a soft, attractive, out-of-focus background image, with maximum aperture." - from Masterclass
 
-<mark style="background-color:red;">\*an action pan is available in cheqout but the lumix also has built in digital stabilization features. Still its a good point.</mark>&#x20;
+<mark style="background-color:red;">\*an action pan is available in cheqout but the lumix also has built in digital stabilization features. Still, a good factor to consider.</mark>&#x20;
 
 \
 
