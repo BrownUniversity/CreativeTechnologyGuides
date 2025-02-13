@@ -44,8 +44,6 @@ Another job the sound person has is setting the "Gain" or the input level of the
 
 &#x20;<mark style="background-color:red;">**If you are using the M4 Interface**</mark><mark style="background-color:red;">, you have the luxury of not having to monitor gain as it uses 32 Bit Float Audio that can be adjusted in post to achieve the optimal sound. You still want to place the microphone at an optimal position, however.</mark>&#x20;
 
-\ <mark style="background-color:red;">PAGE IN PROCESS</mark>
-
 
 
 
