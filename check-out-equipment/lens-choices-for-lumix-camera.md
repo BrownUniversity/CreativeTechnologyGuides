@@ -136,13 +136,4 @@ Make sure to cap your lenses when not in use. Be extra careful of any surfaces o
 
 
 
-<mark style="background-color:red;">IN PROCESS</mark>
-
-
-
-\
-
-
-
-
 \
