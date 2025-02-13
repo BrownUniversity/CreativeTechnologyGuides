@@ -95,7 +95,3 @@ The Beachtek adaptor will attach onto the bottom of your camera. Once positioned
 <figure><img src="../../.gitbook/assets/lt4sk4glybocvj7ggcbs.jpg" alt="" width="375"><figcaption><p>no cats were harmed in the making...</p></figcaption></figure>
 
 Mostly for windy environments, slide the microphone _capsule first_ snuggly into the opening of the regrettably named "Deadcat."The kit also comes with a foam windscreen which can be used to not only limit a casual breeze, but protect the capsule of the microphone.&#x20;
-
-
-
-<mark style="background-color:red;">PAGE IN PROGRESS</mark>
