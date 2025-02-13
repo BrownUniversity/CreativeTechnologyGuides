@@ -14,6 +14,8 @@ description: Everything you need to get optimal "on-set sound"
 * **Foam Windscreen**
 * **A 1.5' XLR and 15' XLR to attach to Beachtek or Optional Audio interface.**&#x20;
 
+<figure><img src="../../.gitbook/assets/GITBOOK_shotgun mic kit card (2).jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/46c58f-2627a9-screen_shot_2018-05-28_at_12_56_24_pm.png" alt=""><figcaption><p>the parts assembled (windscreen looks different)</p></figcaption></figure>
 
 
