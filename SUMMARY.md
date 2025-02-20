@@ -30,6 +30,7 @@
     * [Audio Set Up](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/audio-set-up.md)
     * [Custom Mode 1 Settings: A Reference](check-out-equipment/camera-kit/initial-setup-for-recording-monologues/custom-mode-1-settings-a-reference.md)
 * [Lens Choices for Lumix Camera](check-out-equipment/lens-choices-for-lumix-camera.md)
+* [Shoulder Mount for Camera](check-out-equipment/shoulder-mount-for-camera.md)
 * [Manfrotto Befree Tripod](check-out-equipment/manfrotto-befree-tripod.md)
 * [Neewer 3 Point Light Kit](check-out-equipment/neewer-light-kit.md)
 * [Mini LED 3 Point Light Kits](check-out-equipment/mini-led-3-point-light-kits.md)
