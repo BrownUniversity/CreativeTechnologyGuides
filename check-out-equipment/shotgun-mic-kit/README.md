@@ -28,7 +28,7 @@ description: Everything you need to get optimal "on-set sound"
 
 <figure><img src="../../.gitbook/assets/c0542d0a-6b25-48a3-8644-d901fd69b1bf.webp" alt="" width="375"><figcaption><p>AT897</p></figcaption></figure>
 
-The AT897 is a "shotgun" or "highly directional mic" meaning it records primarily what is right at the end of its capsule, making it perfect for on-set recordings, pointed at an actors face for example (out of view of camera of course.) The bottom of it unscrews to contain a 1.5V AA battery but also can use "phantom" power meaning it draws its electricity from the interface it is connected to, or in the case of the Beachtek adaptor, from the camera that is connected to the Beachtek interface.&#x20;
+The AT897 is a "shotgun" or "highly directional mic" meaning it records primarily what is right at the end of its capsule, making it perfect for on-set recordings, pointed at an actors face for example (out of view of camera of course.) The bottom of it unscrews to contain a 1.5V AA battery but also can use "phantom" power meaning it draws its electricity from the interface it is connected to. <mark style="background-color:red;">**If you do use an interface with phantom power, make sure to take the battery out of the mic beforehand.**</mark> <mark style="background-color:red;">**In the case of the Beachtek adaptor, it cannot draw from phantom power and must rely on the AA battery.**</mark>&#x20;
 
 
 
@@ -69,9 +69,11 @@ In the case of boom pole use, make sure the adjustable nob is firmly set so that
 
 1. **M/S Switch**: The **M (MONO)** setting mixes both channels together and sends the audio to both the right and left channels, which is ideal when only one microphone is being used. The **S (STEREO)** setting keeps both channels separated and should normally be used when two microphones are connected. This provides two discrete channels of audio.
 2. **G2/G1 Switch:** Set the G2/G1 ground switch on the DXA-2T to the position that gives you the least amount of noise.
-3. **LIN/MIC Switchs:** To connect a microphone to either channel of the DXA- 2T, set the corresponding LIN/MIC switch to MIC.
+3. **LIN/MIC Switchs:** To connect a microphone to either channel of the DXA- 2T, set the corresponding LIN/MIC switch to MIC. --<mark style="background-color:red;">**IMPORTANT, Make Sure Setting in the Lumix Camera is set to Mic and not Mic (ELECTRICAL SYMBOL) and that there is a charged battery to work.**</mark>
 4. **Left & Right Controllers:** To control the input signal of each mic.
-5. **AUX Input Jack**\
+5. **AUX Input Jack**
+
+![](../../.gitbook/assets/S5iix.00_01_03_19.Still044-1240x698.jpg)\
 
 
 ![](https://content3.bloomfire.com/thumbnails/contents/000/826/245/original.png?f=1496353432\&Expires=1738859983\&Signature=jsGHONKetnTQEfInk-sG29JlLqKPZAvbjF5RHGD9q1nhCua11JfokJb1FeP8GIfS8t8XIkWktfjHbGgsJlciNiDgk0U5QC5bDEZY86NWCgS5G251XLSk1sAwFXzi~uFluHJcgmf-spZ1cRvc8gflJwOXKwbadD4l3Gq3Xr14ryPHRvah~9w1zyUkwOqduq1t~MRRP4GPWEQCPO1sHXtORRJw0dtbI0sBmnJ3QGCq-RSQlJKhVGjmPzCXspMN5dvDwj6VcoiznyMeBNfiXg~B4iNkNW8f2IH18RXxNRWE~-uFbhz4tYEsrPsZin8WeYsrIUPCr9QqNK~bEkjybb139w__\&Key-Pair-Id=APKAIDFCFZ2UHE5LPIUA)User Interface: Side
