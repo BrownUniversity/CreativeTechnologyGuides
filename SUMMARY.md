@@ -41,6 +41,7 @@
   * [Booming with a Shotgun Mic](check-out-equipment/shotgun-mic-kit/booming-with-a-shotgun-mic.md)
 * [Basic Recorder Kit](check-out-equipment/basic-recorder-kit.md)
 * [Field Recorder](check-out-equipment/field-recorder.md)
+* [4 Channel Surround Sound Field Recorder](check-out-equipment/4-channel-surround-sound-field-recorder.md)
 * [GoPro Kit](check-out-equipment/gopro-kit.md)
 * [Multi-Cam GoPro Kit](check-out-equipment/multi-cam-gopro-kit.md)
 * [Podcasting Kit](check-out-equipment/podcasting-kit.md)
