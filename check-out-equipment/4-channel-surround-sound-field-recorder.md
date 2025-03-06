@@ -4,6 +4,8 @@ description: Zoom H2n Audio Recorder
 
 # 4 Channel Surround Sound Field Recorder
 
+[https://zoomcorp.com/media/documents/E\_H2n\_QuickGuide.pdf](https://zoomcorp.com/media/documents/E_H2n_QuickGuide.pdf) - <mark style="background-color:red;">Manual</mark>
+
 This is a versatile audio recorder with 5 built in microphones and most notably 4 different recording modes, **allowing you to record spatial or surround sound audio.**&#x20;
 
 You may also use this as a high-quality usb microphone for recording onto your computer or for a live-streaming call.&#x20;
