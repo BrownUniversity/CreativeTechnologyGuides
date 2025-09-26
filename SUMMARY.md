@@ -8,7 +8,7 @@
 * [Ableton Push](wayfinding/ableton-push.md)
 * [Animation station](wayfinding/animation-station.md)
 * [Electronics workstation](wayfinding/electronics-workstation.md)
-* [Threaded insert press](wayfinding/threaded-insert-press.md)
+* [Threaded-insert press](wayfinding/threaded-insert-press.md)
 * [Flatbed scanner](wayfinding/flatbed-scanner.md)
 * [MIDI keyboards](wayfinding/midi-keyboards.md)
 * [Projectors](wayfinding/projectors.md)
