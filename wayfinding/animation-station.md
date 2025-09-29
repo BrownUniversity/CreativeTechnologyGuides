@@ -1,16 +1,5 @@
 ---
 description: Create animations or document 2D artwork or documents
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # Animation station

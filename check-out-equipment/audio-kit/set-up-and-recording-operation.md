@@ -5,20 +5,6 @@ description: >-
 cover: >-
   ../../.gitbook/assets/Normalize_1.jpg.1400x800_q80_crop_focal_area-1600,900,3200,1800_size_canvas_upscale_zoom-50.jpg
 coverY: 27
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Set up and Recording Operation

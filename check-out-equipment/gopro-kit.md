@@ -5,20 +5,6 @@ description: >-
 cover: >-
   https://media.wired.com/photos/633dbb1685e7a4cc2f802267/master/pass/GoPro-Hero-11-Gear.jpg
 coverY: 30
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # GoPro Kit
@@ -62,15 +48,7 @@ For the basics of using the camera, swipe left or right to switch between timela
 
 Once you have selected your intended mode and capture settings, just press the record button on the top of the screen. Press the button again to stop recording.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Menu_1.1 (1).jpg" alt="" width="375"><figcaption><p>Menu Overview</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Menu_2.jpg" alt="" width="375"><figcaption><p>Selection of Capture Setting Presets for Video Mode</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Menu_1.1 (1).jpg" alt="" width="375"><figcaption><p>Menu Overview</p></figcaption></figure> <figure><img src="../.gitbook/assets/Menu_2.jpg" alt="" width="375"><figcaption><p>Selection of Capture Setting Presets for Video Mode</p></figcaption></figure></div>
 
 ### Playblack
 
@@ -82,15 +60,7 @@ To access the battery door, pull down firmly the lever on the side of the camera
 
 Use the white tab on the battery to pull it out. <mark style="background-color:orange;">**When putting batteries back in, be sure to align the metal pins on the battery with the metal pins in the GoPro's battery receiver**</mark><mark style="background-color:orange;">.</mark>
 
-<div>
-
-<figure><img src="../.gitbook/assets/Battery Door Opening.jpg" alt="" width="563"><figcaption><p>Try using your fingernails to grip the lever</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/BatteryMedia Door (2).jpg" alt="" width="375"><figcaption><p>Battery/Media Compartment</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Battery Door Opening.jpg" alt="" width="563"><figcaption><p>Try using your fingernails to grip the lever</p></figcaption></figure> <figure><img src="../.gitbook/assets/BatteryMedia Door (2).jpg" alt="" width="375"><figcaption><p>Battery/Media Compartment</p></figcaption></figure></div>
 
 To charge the batteries, use the included battery charger, which can charge both batteries at once! The kit also includes a USB-C cable and block adapter to plug the battery charger into the wall.
 
@@ -114,33 +84,13 @@ To plug the card into a computer, the kit includes a Micro-SD card reader that c
 
 All of the included accessories attach to the GoPro the same way. To access the GoPro's mount, flip out the tabs at the bottom of the GoPro. Then slip the GoPro into the accessory as pictured and tighten it down with the mounting screw. The mounts also let you tilt the GoPro up or down to achieve the angle you desire!
 
-<div>
-
-<figure><img src="../.gitbook/assets/Attach_1 (3).jpg" alt="" width="563"><figcaption><p>Flip out Mounting Tabs</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Attach_2 (1).jpg" alt="" width="563"><figcaption><p>Slide into accessory</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Attach_3 (2).jpg" alt="" width="563"><figcaption><p>Use the screw to secure the mount!</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Attach_1 (3).jpg" alt="" width="563"><figcaption><p>Flip out Mounting Tabs</p></figcaption></figure> <figure><img src="../.gitbook/assets/Attach_2 (1).jpg" alt="" width="563"><figcaption><p>Slide into accessory</p></figcaption></figure> <figure><img src="../.gitbook/assets/Attach_3 (2).jpg" alt="" width="563"><figcaption><p>Use the screw to secure the mount!</p></figcaption></figure></div>
 
 ### Joby GorrilaPod
 
 The GorrilaPod works as a table-top tripod, letting you set up the GoPro for static shots. It is best used for time lapses, live-performance videos, or any other shots where the camera doesn't need to move. Use the ball head at the top of the tripod to adjust the angle of the camera. The red tips of the Gorrila Pod are magnetic, so they will affix to metal walls. <mark style="background-color:orange;">**While the magnetic grip is strong, it is not suitable for moving surfaces (door swings, car hoods, etc) and will likely fail leading to damage of the camera**</mark>
 
-<div>
-
-<figure><img src="../.gitbook/assets/GorillaPod (2).jpg" alt=""><figcaption><p>Joby GorillaPod with GoPro</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/GorillaPod (head).jpg" alt=""><figcaption><p>Ball head for adjusting camera angle</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/GorillaPod (2).jpg" alt=""><figcaption><p>Joby GorillaPod with GoPro</p></figcaption></figure> <figure><img src="../.gitbook/assets/GorillaPod (head).jpg" alt=""><figcaption><p>Ball head for adjusting camera angle</p></figcaption></figure></div>
 
 ### Head Mount
 
@@ -158,13 +108,5 @@ The head mount allows you to capture point-of-view footage for action sports, vl
 
 The flexible grip mount is a versatile mount that lets you attach the GoPro to a variety of irregularly shaped objects. As in the pictures here, you can attach it to poles or railings, but feel free to try it on any objects at your location. If it can wrap around the mounting point, it should be strong enough to hold the GoPro up!
 
-<div>
-
-<figure><img src="../.gitbook/assets/Flexible Grip 2.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Flexible Grip 1.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Flexible Grip 2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Flexible Grip 1.jpg" alt=""><figcaption></figcaption></figure></div>
 

@@ -5,20 +5,6 @@ description: >-
   productions, all in a small, easy-to-carry kit.
 cover: ../.gitbook/assets/Screenshot 2024-04-09 at 3.18.41 PM.png
 coverY: 129.35466666666665
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Multi-Cam GoPro Kit
@@ -60,15 +46,7 @@ For the basics of using the camera, swipe left or right to switch between timela
 
 Once you have selected your intended mode and capture settings, just press the record button on the top of the screen. Press the button again to stop recording.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Menu_1.1 (2).jpg" alt="" width="563"><figcaption><p>Menu Overview</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Menu_2 (1).jpg" alt="" width="563"><figcaption><p>Selection of Capture Setting Presets for Video Mode</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Menu_1.1 (2).jpg" alt="" width="563"><figcaption><p>Menu Overview</p></figcaption></figure> <figure><img src="../.gitbook/assets/Menu_2 (1).jpg" alt="" width="563"><figcaption><p>Selection of Capture Setting Presets for Video Mode</p></figcaption></figure></div>
 
 ### Playback
 
@@ -80,15 +58,7 @@ To access the battery door, pull down firmly the lever on the side of the camera
 
 Use the white tab on the battery to pull it out. <mark style="background-color:orange;">**When putting batteries back in, be sure to align the metal pins on the battery with the metal pins in the GoPro's battery receiver**</mark><mark style="background-color:orange;">.</mark>
 
-<div>
-
-<figure><img src="../.gitbook/assets/Battery Door Opening (1).jpg" alt="" width="563"><figcaption><p>Try using your fingernails to grip the lever</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/BatteryMedia Door (3).jpg" alt="" width="563"><figcaption><p>Battery/Media Compartment</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Battery Door Opening (1).jpg" alt="" width="563"><figcaption><p>Try using your fingernails to grip the lever</p></figcaption></figure> <figure><img src="../.gitbook/assets/BatteryMedia Door (3).jpg" alt="" width="563"><figcaption><p>Battery/Media Compartment</p></figcaption></figure></div>
 
 To charge the batteries, use the included battery charger, which can charge both batteries at once! The kit also includes a USB-C cable and block adapter to plug the battery charger into the wall.
 
@@ -116,41 +86,17 @@ The GorrilaPod works as a table-top tripod, letting you set up the GoPro for sta
 
 Since the legs of the GorillaPod are flexible, you can also wrap them around fixed objects (for instance, the legs of a chair or a railing). The red tips of the Gorrila Pod are magnetic, so they will also affix to metal walls. **While the magnetic grip is strong, it is not suitable for moving surfaces (door swings, car hoods, etc) and will likely fail leading to damage of the camera**
 
-<div>
-
-<img src="https://gitbook.brown.edu/~gitbook/image?url=https:%2F%2F1313564241-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fs3fEUGujmVHeZsdShSEN%252Fuploads%252FN3AA3YliqKl7lRtBnDoR%252FGorillaPod.jpg%3Falt=media%26token=ff76794a-5156-48cf-bcf0-722fad500210&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=0e0c644e83030a67430aa39d381f6f24e6cb5235e66a8d3c163ee973d815e455" alt="Joby GorillaPod with GoPro" width="375">
-
- 
-
-<figure><img src="../.gitbook/assets/GorillaPod (head) (1).jpg" alt="" width="375"><figcaption><p>Ballhead for Adjusting Camera</p></figcaption></figure>
-
-</div>
+<div><img src="https://gitbook.brown.edu/~gitbook/image?url=https:%2F%2F1313564241-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fs3fEUGujmVHeZsdShSEN%252Fuploads%252FN3AA3YliqKl7lRtBnDoR%252FGorillaPod.jpg%3Falt=media%26token=ff76794a-5156-48cf-bcf0-722fad500210&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=0e0c644e83030a67430aa39d381f6f24e6cb5235e66a8d3c163ee973d815e455" alt="Joby GorillaPod with GoPro" width="375"> <figure><img src="../.gitbook/assets/GorillaPod (head) (1).jpg" alt="" width="375"><figcaption><p>Ballhead for Adjusting Camera</p></figcaption></figure></div>
 
 #### Telesin Tripod
 
 The kit also includes one alternative tripod, which works similarly, as a table-top tripod, but also extends, enabling you to get the GoPro further off of the ground.  To set up the tripod, simply flip the two outmost legs out and attach the GoPro as you would with any other accessory. Be aware that they may stick some as they flip out.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Grip (compact) (2).jpg" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Tripod (no phone) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Grip (compact) (2).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Tripod (no phone) (1).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 The Telesin tripod has a few options that let you adjust how the GoPro is positioned. To level, pan, and tilt, there is a ball head at the top of the tripod. Additionally, loosening screws (but not fully removing them!) allows you to raise the tripod. When raising the tripod, try to keep the center of balance over the tripod, so it doesn't tip over.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Ball Head.jpg" alt="" width="563"><figcaption><p>Ball head for adjusting camera</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Extended Tripod (1).jpg" alt="" width="375"><figcaption><p>Fully extended</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Ball Head.jpg" alt="" width="563"><figcaption><p>Ball head for adjusting camera</p></figcaption></figure> <figure><img src="../.gitbook/assets/Extended Tripod (1).jpg" alt="" width="375"><figcaption><p>Fully extended</p></figcaption></figure></div>
 
 As a bonus, here is a tutorial on how to use <mark style="background-color:orange;">Premiere Pro's multi-camera editing mode to speed up your post-production process</mark>:
 

@@ -1,16 +1,5 @@
 ---
 description: Create high resolution scans of paper, film and transparencies
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # Flatbed scanner

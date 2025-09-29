@@ -5,33 +5,11 @@ description: >-
   lighting.
 cover: ../.gitbook/assets/Screenshot 2023-10-13 at 12.35.51 PM (3).png
 coverY: 37.883720930232556
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Mobile Recording Kit
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/Mobile Kit Contents .png" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Light on Tripod.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Mobile Kit Contents .png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Light on Tripod.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 In the past decade, the cameras in smartphones have been getting better and better to the point where now, if used properly, phone footage can be almost indistinguishable from larger mirrorless cameras or DSLRs. Of course, phones don't do everything perfectly, so the mobile kit includes a few key accessories to significantly improve your phone's video capabilities.
 
@@ -45,39 +23,15 @@ The first step in setting up the mobile kit is to set up the handgrip/tripod. Th
 
 The tripod configuration is best for making stationary videos, especially of yourself when you don't have someone else to hold the phone. The tripod works best when you have a table, chair, or other elevated surface to place it on.  To turn the handgrip into a tripod, simply flip the two outmost legs out. Be aware that they may stick some as they flip out.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Grip (compact) (2).jpg" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Tripod (no phone) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Grip (compact) (2).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Tripod (no phone) (1).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Next, to attach your phone to the tripod, just screw on the included phone adapter. To attach your phone, hold down the red button while extending the adapter. Then, place your phone in and contract the unit while holding down the red button, until the phone is securely held by the adapter.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Phone Adapter (CU).jpg" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Tripod w Phone.jpg" alt="" width="563"><figcaption><p>Phone adapter can be rotated to film either horizontally (as above) or vertically (as left)</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Phone Adapter (CU).jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Tripod w Phone.jpg" alt="" width="563"><figcaption><p>Phone adapter can be rotated to film either horizontally (as above) or vertically (as left)</p></figcaption></figure></div>
 
 The tripod has a few options that let you adjust how the phone is positioned. To level, pan, and tilt, there is a ball head at the top of the tripod. Additionally, loosening screws (but not fully removing them!) allows you to raise the tripod. When raising the tripod, try to keep the phone above the center of the tripod, so it stays balanced.
 
-<div>
-
-<figure><img src="../.gitbook/assets/P1000005.JPG" alt="" width="563"><figcaption><p>Ball head for adjusting camera</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Tripod Extended (1).jpg" alt="" width="375"><figcaption><p>Fully extended</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/P1000005.JPG" alt="" width="563"><figcaption><p>Ball head for adjusting camera</p></figcaption></figure> <figure><img src="../.gitbook/assets/Tripod Extended (1).jpg" alt="" width="375"><figcaption><p>Fully extended</p></figcaption></figure></div>
 
 Remember to fold the tripod back up and pack in the carrying case when done.
 
@@ -87,27 +41,11 @@ The vlog stick or handgrip configuration is best for shooting handheld video, es
 
 To attach your phone to the grip, just screw on the included phone adapter.  Same as the tripod configuration, hold down the red button while extending the adapter. Then, place your phone in and contract the unit while holding down the red button, until the phone is securely held by the adapter.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Phone Adapter (CU) (1).jpg" alt="" width="563"><figcaption><p>Phone adapter can be rotated to film either vertically (as above) or horizontally (as right)</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Vlog Stick (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Phone Adapter (CU) (1).jpg" alt="" width="563"><figcaption><p>Phone adapter can be rotated to film either vertically (as above) or horizontally (as right)</p></figcaption></figure> <figure><img src="../.gitbook/assets/Vlog Stick (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The handgrip has a few options that let you adjust how the phone is positioned. To adjust the angle of the phone, there is a ball head at the top of the handgrip that you can rotate in any direction. Additionally, loosening screws (but not fully removing them!) allows you to extend the grip into a selfie-stick configuration.
 
-<div>
-
-<figure><img src="../.gitbook/assets/P1000005.JPG" alt=""><figcaption><p>Ball head for adjusting camera</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Selfie Stick (2).jpg" alt=""><figcaption><p>Selfie-Stick Mode</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/P1000005.JPG" alt=""><figcaption><p>Ball head for adjusting camera</p></figcaption></figure> <figure><img src="../.gitbook/assets/Selfie Stick (2).jpg" alt=""><figcaption><p>Selfie-Stick Mode</p></figcaption></figure></div>
 
 Feel free to play around with the handgrip! Its modular design allows it to be configured into a variety of other grip options to best fit your use case.&#x20;
 
@@ -121,15 +59,7 @@ The shotgun microphone gives you clear audio in the direction that it is pointed
 
 To set up the shotgun mic, just slide it onto the cold shoe mount at the top of the phone adapter and rotate the knob at the base of the microphone clockwise to secure it in place.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Cold Shoe Mount (1).jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Shotgun Mount (2).jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Cold Shoe Mount (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Shotgun Mount (2).jpg" alt=""><figcaption></figcaption></figure></div>
 
 Now you just need to plug the phone microphone into your phone. The kit includes a short aux cable as well as an adapter for iPhones and Androids. Just plug the cable into the "LINE OUT" port on the microphone and into your phone. To listen to what you are recording, the microphone includes a handy headphones port. Simply plug the headphones into the microphone to listen to the audio. Be aware that the headphones are supposed to wrap around your ears.
 
@@ -139,15 +69,7 @@ Now you just need to plug the phone microphone into your phone. The kit includes
 
 If you are shooting outside on a particularly windy Providence day, consider using the additional windscreen to block out unwanted wind noise. To attach it, just slide it over the existing microphone and screen.&#x20;
 
-<div>
-
-<figure><img src="../.gitbook/assets/P1000011 (2).JPG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Windscreen (on tripod) (1).jpg" alt=""><figcaption><p>Make sure the windscreen isn't in your shot</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/P1000011 (2).JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Windscreen (on tripod) (1).jpg" alt=""><figcaption><p>Make sure the windscreen isn't in your shot</p></figcaption></figure></div>
 
 ### Lavalier Microphone
 

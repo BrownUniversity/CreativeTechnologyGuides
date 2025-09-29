@@ -1,19 +1,8 @@
 ---
 description: Description
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
-# Copy of Title
+# Ableton Push
 
 Details
 

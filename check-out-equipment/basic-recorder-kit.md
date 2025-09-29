@@ -4,25 +4,11 @@ description: >-
   and easy audio recorder that provides excellent audio recording quality.
 cover: https://transom.org/wp-content/uploads/2018/06/ZoomH1n-Feature-800x440.jpg
 coverY: 12
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Basic Recorder Kit
 
-[<mark style="color:orange;">**H1n Manual**</mark>](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E\_H1n\_0.pdf)
+[<mark style="color:orange;">**H1n Manual**</mark>](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H1n_0.pdf)
 
 The H1n can be used for voice over, recording interviews (just the interviewee), event recording, ambient recording, etc. It has two on-board mics allowing for true stereo recording. This reliable recording device is simple to operate, using common buttons like record, play, stop, etc. Please watch the following video:&#x20;
 

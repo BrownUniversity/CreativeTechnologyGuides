@@ -1,20 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/Screenshot 2023-09-25 at 3.57.07 PM.png
 coverY: 4.635593220338976
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Using Unity

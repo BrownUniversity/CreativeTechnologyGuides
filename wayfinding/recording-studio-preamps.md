@@ -1,19 +1,8 @@
 ---
 description: Description
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
-# Recording Studio Pre amps
+# Recording Studio preamps
 
 ### _<mark style="color:orange;">We are still working to adding information on this tool. In the mean time, look for a Creative Technology Assistant or reach out to cats@brown.edu if you have questions.</mark>_
 

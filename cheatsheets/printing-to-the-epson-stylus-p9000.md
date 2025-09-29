@@ -3,20 +3,6 @@ description: Step-by-step guide to using the large format inkjet printer
 cover: >-
   ../.gitbook/assets/EPSON-SureColor_-P9000-Standard-Edition-Printer-EPSON-1683067358.jpeg
 coverY: 136.36533333333333
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 🖨️ Printing to the Epson Stylus P9000
