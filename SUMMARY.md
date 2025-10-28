@@ -46,6 +46,7 @@
 * [GoPro Kit](check-out-equipment/gopro-kit.md)
 * [Multi-Cam GoPro Kit](check-out-equipment/multi-cam-gopro-kit.md)
 * [Podcasting Kit](check-out-equipment/podcasting-kit.md)
+* [MPK Mini Midi Controler](check-out-equipment/mpk-mini-midi-controler.md)
 
 ## Guides
 
