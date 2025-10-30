@@ -21,7 +21,7 @@
 ## Cheatsheets
 
 * [🖨️ Printing to the Epson Stylus P9000](cheatsheets/printing-to-the-epson-stylus-p9000.md)
-* [3D Printed MM Hole Guide with Pegs](cheatsheets/3d-printed-mm-hole-guide-with-pegs.md)
+* [🕳️ 3D Printed MM Hole Guide with Pegs](cheatsheets/3d-printed-mm-hole-guide-with-pegs.md)
 
 ## Check-Out Equipment
 

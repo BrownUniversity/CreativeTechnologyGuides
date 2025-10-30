@@ -23,7 +23,7 @@ layout:
     visible: true
 ---
 
-# 3D Printed MM Hole Guide with Pegs
+# 🕳️ 3D Printed MM Hole Guide with Pegs
 
 getting tolerances for things like holes and pegs can be tricky with 3D printing, as tolerances can change based on printer, filament type, size of your components, evironmental factors, even filament color and brand can affect how accurate your holes and pegs are. What may have printed out well on one printer may not print out the same in another. The Millimeter Hole guide with Pegs, is a tool that you can use to make sure you are designing holes and connector pegs with the correct tolerances.&#x20;
 
