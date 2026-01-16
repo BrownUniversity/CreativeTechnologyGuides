@@ -4,7 +4,7 @@ description: How to use the Zoom PodTrak P4
 
 # Podcasting Kit
 
-[PODTRAK MANUAL](https://zoomcorp.com/media/documents/E\_P4\_QuickGuide\_2.pdf)
+[PODTRAK MANUAL](https://zoomcorp.com/media/documents/E_P4_QuickGuide_2.pdf)
 
 
 
@@ -22,16 +22,14 @@ It also can be used as an “audio interface” to record an XLR microphone and 
 
 
 
-Thirdly, as demonstrated in the video, you could use the PodTrak as an audio interface simply to use for a Zoom meeting or any other online content. \
-
+Thirdly, as demonstrated in the video, you could use the PodTrak as an audio interface simply to use for a Zoom meeting or any other online content. <br>
 
 Your podtrack kit comes with two Dynamic Zoom XLR mics ideal for a two person podcast.&#x20;
 
 \
 These Zoom mics have a “Supercardiod” polar pattern that tends to be good at reducing ambient noise, however it’s important to stay directly in front of the mic for optimal sound. This is why you should consider additional mics for additional mic-users.
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/Screen Shot 2024-11-19 at 11.45.32 AM.png" alt="The XLR inputs of the Interface with a single XLR Cable being plugged in."><figcaption></figcaption></figure>
 
@@ -69,8 +67,7 @@ Secondly, locate your SD card. It is probably inside the P4
 
 Next, You should format your SD card. It is not recommended to insert the SD card while the unit is turned on, resulting in data loss. Once the SD Card is inserted you can turn it on.&#x20;
 
-\
-
+<br>
 
 Press the power button on the console. It’s on the other side of where you found the SD card. If you don’t have battery power. Plug the USB cord into the DC 5V USB on the SD cord side. This should give you power.&#x20;
 
@@ -101,18 +98,15 @@ The most important setting for audio quality is your mic setting in your menu sc
 
 Select Mic Settings on the Menu Screen
 
-\
-
+<br>
 
 There you’ll see the Low Cut & Limiter functions
 
-\
-
+<br>
 
 Where your XLR mic cable is plugged in should delineate with what mic number you’re using on the P4.&#x20;
 
-\
-
+<br>
 
 If you’re recording in a relatively quiet space, with no humming air-conditioner or pervasive noise in the background, then you should feel free _**not**_ to activate the Low Cut function. You will get better sound quality without it.&#x20;
 
@@ -126,8 +120,7 @@ If your podcast is likely not to have any rapid changes in volume, such as yelli
 
 As a habit, plug in your microphone before turning on your P4. Your Zoom mic should screw on to your mic stand easily with a gentle twist. Keep twisting until it locks into place. XLR cables should click into place.&#x20;
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/PXL_20231030_185441204.jpg" alt="image of microphone being screwed onto its base and stand. "><figcaption></figcaption></figure>
 
@@ -137,8 +130,7 @@ As a habit, plug in your microphone before turning on your P4. Your Zoom mic sho
 
 It’s important before starting any conversation, any podcast, any recording to first “check your levels.” Try to speak using a little variance into the microphone to see where a good level might be. Try starting on 5 on the gain wheel and adjusting accordingly. Speak in a realistic but soft way, and then speak in an exuberant way. Your level should lie somewhere in the middle range, on average seen on the PodTrak console screen. Occasional “peaking” where the audio passes the top bar is okay, most interfaces account for this and it shouldn’t distort your sound too badly.
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/PXL_20231030_184308415.jpg" alt="Image of the PodTrak indicating its Gain nobs, as well as how the levels can be too soft or too hot"><figcaption></figcaption></figure>
 
@@ -192,7 +184,6 @@ Otherwise, you will also have a folder containing all individual files that can 
 
 Once you have made sure that you have in your possession all needed sound files, you can format the SD card so that your private recordings are not passed on to a future user.
 
-\
+<br>
 
-
-\
+<br>

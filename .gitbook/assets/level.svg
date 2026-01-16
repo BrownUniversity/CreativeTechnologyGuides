@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="76.867mm" height="27.197mm" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 217.89 77.094">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #284692;
+      }
+
+      .st1 {
+        stroke: #231916;
+        stroke-miterlimit: 10;
+      }
+
+      .st1, .st2, .st3 {
+        fill: none;
+      }
+
+      .st4 {
+        font-family: Roboto-Regular, Roboto;
+        font-size: 10px;
+      }
+
+      .st5 {
+        fill: #fff;
+      }
+
+      .st2 {
+        stroke: #fff;
+        stroke-width: 4.5px;
+      }
+
+      .st2, .st3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st3 {
+        stroke: #284692;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1" data-name="レイヤー_1">
+    <image width="128" height="64" transform="translate(0 .557) scale(1.196)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAABBCAYAAAAZiqzaAAAACXBIWXMAAAk6AAAJOgHwZJJKAAADTUlEQVR4nO2c3Y6kIBCFYdOd7Lz/w7aJJL1XJIwLUkUd0dLzJXMx/pwqEY5Ao/Hv6/UN5JEsKcUXSuyzrr/+/3m/d/dv2R4/EmPvHMmxmhgjuVjplaGUMldIBagl9llXaKGMxNAWmDTGjOttYY2xzf3V2iFNojwvb8/baoWidYaRGFLdkRgjuaCpuY9025Y/qKRK8aMKQRrDYpXSGDOuN/NZV5j9b4H1AVDUWpjl/JZdW2KcwVF5TqsAFpuWnjvjxiIeN1fiEg6guVmS59qsVn3GSADNJSpAiYee9J2AdQK1jNrmz/vdHIXM5kq5jHJaBchIJ3M0dpuPL89B3RxtLlfnco+AGR05j6MA7YymFJgDaFrbaGvsxciWXP6V+xAxtMch2F4LErMDlGNtrTVKL8oSQ4o0xoxcekhHPpJ8IurXQO0zuneMNcZorCf9GLSkFGEVgPhjSSnG7/fLCvBQYozx5aUXTI7B1AlEDadaOtqfqI/O5ywdFLV82Ad4MEtKETIPgJxlo87xlPnQAR4MHcCZDgo6AAkh0AHc6aBoOsDoymDik/9eDLHMzV9hvHxXHRScByC/YB/AmQ4KjgJICIEO4E4HBR2AhBCAr4ejXop8ko51yG05v8yHDvBgzA7A9QDjOmc4QC0fUwVArsilzvEc9n2Aq/WW76qDoswHUgGu1mLuqoOi+Y2g0eeSh173HXRQlPnQARzpoCjzYR/AkQ4K9gGc6qBo9gG0eBp3e9ZBwXkApzooOA/gXAcF+wBOdVBwFOBUBwUdwKkOCjqAUx0UdACnOijoAE51UNABnOqgoAM41UFBB3Cqg0LlAJpv8e3tz38WnfzFzF5O0hY3kk95LXl/bZsmjrWClOWivV/N3wI0SfU+CildPLKnU1v02SpYRKWV6kiY/RHJvbLZ5tOsAFlAWph7q3n3kpNWDs1ztJdP3lcrqCuvdEJR5gN5MUR6cZqa2TtmVKeXQ09Huk2zH4FmOT1sPUAZsFfoksQkLaV0ppZeS6ds+ZLcJG/09FxkLx8kmkfAVAeQ3nyJjqXl1nJAOJIln7M4ZR5A0kuV1Nr81zsWwUwdbU8elc8h3wi6qw4Sa06Ia+L3AZzpoGg6AHkWS0rx7BzIyfwDrmqGNhohesgAAAAASUVORK5CYII="/>
+    <rect class="st1" x=".529" y=".5" width="150.542" height="75.594"/>
+  </g>
+  <g id="_レイヤー_2" data-name="レイヤー_2">
+    <g>
+      <g>
+        <line class="st2" x1="155.381" y1="31.56" x2="169.964" y2="24.481"/>
+        <path class="st5" d="M157.228,35.365c-2.101,1.02-4.632.143-5.652-1.958-1.02-2.101-.143-4.632,1.958-5.652,2.101-1.02,4.632-.143,5.652,1.958,1.02,2.101.143,4.632-1.958,5.652Z"/>
+      </g>
+      <g>
+        <line class="st3" x1="155.381" y1="31.56" x2="169.964" y2="24.481"/>
+        <path class="st0" d="M156.818,34.52c-1.634.793-3.603.112-4.396-1.523-.793-1.634-.112-3.603,1.523-4.396,1.634-.793,3.603-.112,4.396,1.523.793,1.634.112,3.603-1.523,4.396Z"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <line class="st2" x1="155.381" y1="50.864" x2="169.964" y2="57.944"/>
+        <path class="st5" d="M153.534,54.669c-2.101-1.02-2.978-3.551-1.958-5.652,1.02-2.101,3.551-2.978,5.652-1.958,2.101,1.02,2.978,3.551,1.958,5.652-1.02,2.101-3.551,2.978-5.652,1.958Z"/>
+      </g>
+      <g>
+        <line class="st3" x1="155.381" y1="50.864" x2="169.964" y2="57.944"/>
+        <path class="st0" d="M153.944,53.824c-1.634-.793-2.316-2.762-1.523-4.396.793-1.634,2.762-2.316,4.396-1.523,1.634.793,2.316,2.762,1.523,4.396-.793,1.634-2.762,2.316-4.396,1.523Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="Text">
+    <text class="st4" transform="translate(175.146 27.549)"><tspan x="0" y="0">−6 dBFS</tspan></text>
+    <text class="st4" transform="translate(175.146 61.436)"><tspan x="0" y="0">−12 dBFS</tspan></text>
+  </g>
+</svg>

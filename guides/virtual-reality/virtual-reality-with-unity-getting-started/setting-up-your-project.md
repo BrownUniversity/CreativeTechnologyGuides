@@ -67,8 +67,7 @@ You can add models for physical controller to help show where they are in space 
 Unity provides generic controller objects for the left and right hand _XR Interaction Toolkit > \[VERSION] > Starter Assets > Prefabs > XR Origin Pieces > XR Controller Left_ (and Right). Meta provides [3D models](https://developer.oculus.com/downloads/package/oculus-controller-art/?locale=en_GB) of their physical controllers.
 
 1. Add your model or prefab as a child of your _LeftHandController_ object. Make sure the nested models Transform position is set to (x: 0, y: 0, z: 0). If you add the object directly from the your _Project Assets_ it should be positioned correctly.
-2.  After nesting your model in the _LeftHandController_ object, select the _LeftHandController_ and in the inspector find the section labeled _Model_ in the _XR Controller_ component. Click and drag the controller model from the heirarchy into the drop down box labeled **Model Prefab**.\
-
+2.  After nesting your model in the _LeftHandController_ object, select the _LeftHandController_ and in the inspector find the section labeled _Model_ in the _XR Controller_ component. Click and drag the controller model from the heirarchy into the drop down box labeled **Model Prefab**.<br>
 
     <figure><img src="../../../.gitbook/assets/DragControllerModel.gif" alt=""><figcaption></figcaption></figure>
 3. Repeat steps for the _RightHandController_.

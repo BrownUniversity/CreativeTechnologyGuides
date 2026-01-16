@@ -75,8 +75,7 @@ Flexible wide-angle zoom lens
 Aperture Range: f/4 to f/32\
 Versatile and standard, this lens covers wide-angle to portrait-length perspectives.
 
-\
-
+<br>
 
 **Canon EF-S 55-250mm (adapter required)**
 
@@ -92,8 +91,7 @@ Aperture Range: f/4 to f/32
 
 This is a telephoto zoom lens suitable for distant subject matter.
 
-\
-
+<br>
 
 **Panasonic Lumix S 50mm F/1.8 (native L-mount)**
 
@@ -107,8 +105,7 @@ Prime (fixed focal length) lens, suited for both portraits and landscape. With a
 
 <mark style="background-color:red;">\*an action pan is available in cheqout but the lumix also has built in digital stabilization features. Still, a good factor to consider.</mark>&#x20;
 
-\
-
+<br>
 
 **Sigma 24mm F/2 (native L-mount)**
 
@@ -136,4 +133,4 @@ Make sure to cap your lenses when not in use. Be extra careful of any surfaces o
 
 
 
-\
+<br>

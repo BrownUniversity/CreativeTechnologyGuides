@@ -5,6 +5,10 @@
 
 ## Wayfinding
 
+* [Podcasting in the Capture Studio @ CATS](wayfinding/podcasting-in-the-capture-studio-cats/README.md)
+  * [Recording, Playback, Transferring Files](wayfinding/podcasting-in-the-capture-studio-cats/recording-playback-transferring-files.md)
+  * [Setting Up for Podcasting](wayfinding/podcasting-in-the-capture-studio-cats/setting-up-for-podcasting.md)
+  * [Gain, Volume, and Audio Filters Settings:](wayfinding/podcasting-in-the-capture-studio-cats/gain-volume-and-audio-filters-settings.md)
 * [Ableton Push](wayfinding/ableton-push.md)
 * [Animation station](wayfinding/animation-station.md)
 * [Electronics workstation](wayfinding/electronics-workstation.md)
@@ -94,3 +98,7 @@
   * [Audio Set Up](camera-kit-set-up-for-video-recording-humans/the-camera-+-basic-operations/audio-set-up.md)
   * [Manfrotto Befree Tripod](camera-kit-set-up-for-video-recording-humans/the-camera-+-basic-operations/manfrotto-befree-tripod.md)
   * [Neewer Light Kit](camera-kit-set-up-for-video-recording-humans/the-camera-+-basic-operations/neewer-light-kit.md)
+
+***
+
+* [Gain vs. Volume: The Setting That’s Ruining Your Audio #creatortips #audiotips #microphone - YouTube](gain-vs.-volume-the-setting-thats-ruining-your-audio-creatortips-audiotips-microphone-youtube.md)

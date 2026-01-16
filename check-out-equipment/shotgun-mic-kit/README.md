@@ -56,8 +56,7 @@ In the case of boom pole use, make sure the adjustable nob is firmly set so that
 
 <figure><img src="../../.gitbook/assets/HTB1Mt0yQpXXXXaEXXXXq6xXFXXXB.webp" alt="" width="375"><figcaption><p>placement of the microphone in shockmount</p></figcaption></figure>
 
-\
-
+<br>
 
 ## BeachTek DXA-2T XLR Adaptor
 
@@ -73,8 +72,7 @@ In the case of boom pole use, make sure the adjustable nob is firmly set so that
 4. **Left & Right Controllers:** To control the input signal of each mic.
 5. **AUX Input Jack**
 
-![](../../.gitbook/assets/S5iix.00_01_03_19.Still044-1240x698.jpg)\
-
+![](../../.gitbook/assets/S5iix.00_01_03_19.Still044-1240x698.jpg)<br>
 
 ![](https://content3.bloomfire.com/thumbnails/contents/000/826/245/original.png?f=1496353432\&Expires=1738859983\&Signature=jsGHONKetnTQEfInk-sG29JlLqKPZAvbjF5RHGD9q1nhCua11JfokJb1FeP8GIfS8t8XIkWktfjHbGgsJlciNiDgk0U5QC5bDEZY86NWCgS5G251XLSk1sAwFXzi~uFluHJcgmf-spZ1cRvc8gflJwOXKwbadD4l3Gq3Xr14ryPHRvah~9w1zyUkwOqduq1t~MRRP4GPWEQCPO1sHXtORRJw0dtbI0sBmnJ3QGCq-RSQlJKhVGjmPzCXspMN5dvDwj6VcoiznyMeBNfiXg~B4iNkNW8f2IH18RXxNRWE~-uFbhz4tYEsrPsZin8WeYsrIUPCr9QqNK~bEkjybb139w__\&Key-Pair-Id=APKAIDFCFZ2UHE5LPIUA)User Interface: Side
 
