@@ -6,9 +6,10 @@
 ## Wayfinding
 
 * [Podcasting in the Capture Studio @ CATS](wayfinding/podcasting-in-the-capture-studio-cats/README.md)
-  * [Recording, Playback, Transferring Files](wayfinding/podcasting-in-the-capture-studio-cats/recording-playback-transferring-files.md)
   * [Setting Up for Podcasting](wayfinding/podcasting-in-the-capture-studio-cats/setting-up-for-podcasting.md)
   * [Gain, Volume, and Audio Filters Settings:](wayfinding/podcasting-in-the-capture-studio-cats/gain-volume-and-audio-filters-settings.md)
+  * [Recording, Playback, Transferring Files](wayfinding/podcasting-in-the-capture-studio-cats/recording-playback-transferring-files.md)
+  * [Advanced Additional Features](wayfinding/podcasting-in-the-capture-studio-cats/advanced-additional-features.md)
 * [Ableton Push](wayfinding/ableton-push.md)
 * [Animation station](wayfinding/animation-station.md)
 * [Electronics workstation](wayfinding/electronics-workstation.md)
@@ -102,3 +103,4 @@
 ***
 
 * [Gain vs. Volume: The Setting That’s Ruining Your Audio #creatortips #audiotips #microphone - YouTube](gain-vs.-volume-the-setting-thats-ruining-your-audio-creatortips-audiotips-microphone-youtube.md)
+* [Zoom PodTrak P4next: Broadcast-Quality Anywhere! - YouTube](zoom-podtrak-p4next-broadcast-quality-anywhere-youtube.md)

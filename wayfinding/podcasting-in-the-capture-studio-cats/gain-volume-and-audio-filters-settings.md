@@ -36,7 +36,7 @@ _<mark style="background-color:orange;">If you are new to audio recording, gain 
 5. adjust the corresponding gain knob for their mic so that for the majority of the time they are speaking, their signal falls in between -6 and -12 db, indicated by the following image
 6.
 
-    <figure><img src="../../.gitbook/assets/level.svg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-01-16 at 10.49.44 AM.png" alt=""><figcaption></figcaption></figure>
 7. Repeat this for every person using a mic, including yourself.
 
 ## Setting Volume for Headphones
@@ -49,7 +49,7 @@ _<mark style="background-color:orange;">If you are new to audio recording, gain 
 
 All of the following filter options are being applied live, meaning you can test and hear whether your like them or not before you start recording and decide accordingly
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-01-16 at 10.50.01 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 _<mark style="background-color:$warning;">note: These filters are here for less experienced users who may not want to do much post-production work. They automatically apply effects to the recording which can not be undone in post. If you are an advanced user, you may wish to apply these yourself in post rather than enable them on the P4Next.</mark>_
 

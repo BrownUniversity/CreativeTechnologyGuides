@@ -15,13 +15,12 @@ description: >-
 
 <summary>Setup Task List</summary>
 
-
-
-* [ ] Add tripods to mics
+* [ ] add tripods to mics
 * [ ] connect mics to P4Next
 * [ ] connect headphones to P4Next
-* [ ] Set gain and headphone knobs to the middle
-* [ ] Connect P4Next to Power and turn on
+* [ ] format the SD Card
+* [ ] set gain and headphone knobs to the middle
+* [ ] connect P4Next to Power and turn on
 
 </details>
 
@@ -58,10 +57,25 @@ description: >-
        <div><figure><img src="../../.gitbook/assets/Screenshot 2026-01-15 at 3.18.21 PM.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 4. Attach the USB-C cord to the DC5V input on the left side of the device, as well as to the provided charging block and plug into the wall. You may need to use the provided extension cord&#x20;
    1.
-5. Make sure the "Input 4" switch is set to XLR
+5.  Make sure the "Input 4" switch is set to XLR
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-01-16 at 10.54.03 AM (1).png" alt="" width="309"><figcaption></figcaption></figure>
 6. Set each of your gain knobs to the middle
-7. Set each of your headphone knobs in the middle
-8. Press the PowerButton
+7.  Set each of your headphone knobs in the middle&#x20;
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-01-16 at 10.50.01 AM copy (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
+8. <mark style="background-color:$success;">Press the PowerButton</mark>
+
+### Preparing the SD Card
+
+We will be formatting the SD card to erase any prior files so that you have the maximum storage to record.
+
+1. To enter the menu, press the menu button, the use the up, down, and confirm buttons (also the tone, comp, and AI buttons) to navigate
+2.
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-01-16 at 10.50.01 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+3. navigate to <mark style="color:purple;">Menu > SD Card > Format > Execute</mark>
+4. The SD Card will be formatted&#x20;
 
