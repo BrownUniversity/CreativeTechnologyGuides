@@ -30,17 +30,100 @@ This video gives you an overview of the Podtrak P4Next:
 
 </details>
 
-## The Podcasting Crate
-
-Because the Capture Studio was originally designed for self-service easy video recording, it can't accommodate a permanent podcast recording setup, meaning it has to be setup and broken down for each session. Fortunately, we have made this as easy as possible by designing the CATS podcasting crate!
-
 ## CATS Podcasting Crate Policies
 
 These policies are mentioned again throughout this guide, but are organized here in no particular order for convenience:
 
-* **It stays in the studio:** None of the podcasting equipment should ever leave the Capture Studio, for any reason. The crate and all its contents stay in the Capture Studio&#x20;
+* **It stays in the studio:** None of the podcasting equipment  or the crate should ever leave the Capture Studio, for any reason. The crate and all its contents stay in the Capture Studio&#x20;
 * **Do not remove the SD Card**: There is no need to remove it. All file transfers should happen via the provided USB-C cable to your laptop or other such device. The SD card is small and when removed, often gets lost, which disrupts the service
 * **Return device to base settings**: More advanced users may want to change some of the settings on the P4 Next. If you do, you are expected to return all those settings back to our base configuration at the end of your sessions. This ensures that more novice users will be able to use our setup as designed.&#x20;
 * **Report Damage or Loss**: We need to know if something is non-operational so that we can address it. Email CATS@brown.edu, with a detailed description of the issue. We will not assume you caused the damage, but please be honest if you did so that we can better train you and avoid further damage in the future.&#x20;
-* **Learn the Studio Policies**: These policies are in conjunction with the more general and overarching Capture Studio policies, which you should have learned about in your online training.&#x20;
+* **Learn the Studio Policies**: These policies are in conjunction with the more general and overarching Capture Studio policies, which you should have learned about in your online training.
+
+## The Podcasting Crate
+
+Because the Capture Studio was originally designed for self-service easy video recording, it can't accommodate a permanent podcast recording setup, meaning it has to be setup and broken down for each session. Fortunately, we have made this as easy as possible by designing the CATS podcasting crate!
+
+<details>
+
+<summary>Podcasting Crate Inventory</summary>
+
+* 4 dynamic mics
+* 4 table top tripods
+* 4 pairs of headphones and cables
+* 4 XLR cables
+* 1 Podtrak P4Next&#x20;
+* 1  green extension cord
+* 1 small plastic case that contains:
+  * USB C cable (same for power during use and transferring to laptop after)
+  * Charging Block
+  * USB adapters
+
+</details>
+
+### Podcasting Crate Layout
+
+<div><figure><img src="../../.gitbook/assets/PC Top View Labeled.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/PC Top Remove Tray.png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../../.gitbook/assets/PC Bottom View Labeled.png" alt=""><figcaption></figcaption></figure>
+
+#### A few things about putting things back in the Podcasting Crate.&#x20;
+
+_In general, its good to put things that belong in the bottom of the tray first._
+
+**Headphones:**
+
+* Headphones are stored at an angle. There are some hooks under the 3D printed supports that the headphones can latch onto, but it can be a little bit of tight fit, and ultimately not necessary.&#x20;
+*
+
+    <figure><img src="../../.gitbook/assets/PXL_20260128_210953477.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+**Dynamic Mics:**
+
+* The mics fit into the round carboard holders, but only if the "neck" is oriented in the correct position.&#x20;
+* simply loosen the knob and rotate the neck into the position you see below
+*
+
+    <figure><img src="../../.gitbook/assets/PXL_20260128_210913299.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+**Headphone Cable Holders:**&#x20;
+
+* start by wedging the begining of the cable into nook in the holder.&#x20;
+* the holders themselves slide into the 3D printed holder on the tray
+
+<div><figure><img src="../../.gitbook/assets/PXL_20260128_210553923.jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/PXL_20260128_210530748.jpg" alt=""><figcaption></figcaption></figure></div>
+
+
+
+**XLR Cables:**&#x20;
+
+* Each XLR cable has a velcro tie down attached to it.&#x20;
+* Wrap each cable first and secure with attached velcro tie down
+* Use the tray velcro tie downs to hold onto the XLR Cables
+*
+
+    <figure><img src="../../.gitbook/assets/PXL_20260128_210638026 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+**Podtrak P4 Next:**
+
+* The baseplate on the tray corresponds with the bottom of the P4Next enclosure.&#x20;
+* Place the P4Next down onto the base plate, and then secure with the velcro tie downs
+*
+
+    <figure><img src="../../.gitbook/assets/PXL_20260128_210750026.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+**Security cable:**
+
+* Once everything is put back, the last thing you should do is wrap the security cable around the security cable organizers. _<mark style="color:yellow;background-color:$danger;">**This should not be done tightly.**</mark>_ If it won't stay naturally, just use the provided velcro tie down to wrap the cable, and hang it off one of the pegs
+*
+
+    <figure><img src="../../.gitbook/assets/PXL_20260128_210724392.jpg" alt=""><figcaption></figcaption></figure>
 
