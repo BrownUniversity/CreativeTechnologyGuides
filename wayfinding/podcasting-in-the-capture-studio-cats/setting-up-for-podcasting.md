@@ -41,9 +41,21 @@ layout:
 1. Decide on how many mics you want to use and place them on the table in front of you
    1. _<mark style="background-color:blue;">The table provided is shared with the multi-user editing station and lives in the back of the studio</mark>_
 2. Attach each mic to either one of the provided tabletop tripods or other stand, by screwing the microphone in place.&#x20;
-3. The mic can be raised several inches by extending the center column via loosening and tightening of the collet. The angle of the mic can also be adjusting loosening and tightening the knob
+   1.
+
+       <figure><img src="../../.gitbook/assets/PC Mic2Tripod.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+3. The mic can be raised by extending the center column of the tripod by loosening and tightening of the collet. The angle of the mic can also be adjusting loosening and tightening the knob
+   1.
+
+       <figure><img src="../../.gitbook/assets/PXL_20260128_210005058 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 4. Grab an XLR cable and identify the end of the plug that has the holes. line up the holes with the 3 prongs found on the underside of the microphone. Do this for each microphone you plan to use.&#x20;
    1.
+
+       <figure><img src="../../.gitbook/assets/PXL_20260128_210204832.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 
 
@@ -53,7 +65,7 @@ layout:
 2. detach the same number of headphone cord (3.5mm extender cable) organizers by sliding them out of their holder.
    1. <mark style="background-color:orange;">note: the headphone cords should always be stored in the cord organizers</mark>
 3. Connect the headphones to the headphone cables.
-4. Connect the headphone cables into the appropriate 3.5mm jack, corresponding to the labeled XLR connections, starting with 1, then 2, etc.
+4. Connect the headphone cables into the appropriate 3.5mm jack, corresponding to the labeled XLR connections, starting with 1, then 2, etc, in the front of the P4Next
    1.
 
        <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="311"><figcaption></figcaption></figure>
@@ -67,7 +79,7 @@ layout:
    1.
 
        <div><figure><img src="../../.gitbook/assets/Screenshot 2026-01-15 at 3.18.21 PM.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
-4. Attach the USB-C cord to the DC5V input on the left side of the device, as well as to the provided charging block and plug into the wall. You may need to use the provided extension cord&#x20;
+4. Attach the _**USB-C cord to the DC5V**_ input on the left side of the device, as well as to the provided charging block and plug into the wall. You may need to use the provided extension cord&#x20;
    1.
 5.  Make sure the "Input 4" switch is set to XLR
 
@@ -78,7 +90,7 @@ layout:
     <figure><img src="../../.gitbook/assets/Screenshot 2026-01-16 at 10.50.01 AM copy (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
-8. <mark style="background-color:$success;">Press the PowerButton</mark>
+8. <mark style="background-color:$success;">**Press the PowerButton**</mark>
 
 ### Preparing the SD Card
 
