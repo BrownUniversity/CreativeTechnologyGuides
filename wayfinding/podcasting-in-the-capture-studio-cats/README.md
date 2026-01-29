@@ -71,9 +71,11 @@ Because the Capture Studio was originally designed for self-service easy video r
 
 <figure><img src="../../.gitbook/assets/PC Bottom View Labeled.png" alt=""><figcaption></figcaption></figure>
 
+
+
 #### A few things about putting things back in the Podcasting Crate.&#x20;
 
-_In general, its good to put things that belong in the bottom of the tray first._
+_<mark style="background-color:orange;">In general, its good to put things that belong in the bottom of the tray first.</mark>_
 
 **Headphones:**
 
@@ -90,7 +92,7 @@ _In general, its good to put things that belong in the bottom of the tray first.
 * simply loosen the knob and rotate the neck into the position you see below
 *
 
-    <figure><img src="../../.gitbook/assets/PXL_20260128_210913299.jpg" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/PXL_20260128_210913299 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -99,7 +101,7 @@ _In general, its good to put things that belong in the bottom of the tray first.
 * start by wedging the begining of the cable into nook in the holder.&#x20;
 * the holders themselves slide into the 3D printed holder on the tray
 
-<div><figure><img src="../../.gitbook/assets/PXL_20260128_210553923.jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/PXL_20260128_210530748.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/PXL_20260128_210553923.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/PXL_20260128_210530748.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 
@@ -120,7 +122,7 @@ _In general, its good to put things that belong in the bottom of the tray first.
 * Place the P4Next down onto the base plate, and then secure with the velcro tie downs
 *
 
-    <figure><img src="../../.gitbook/assets/PXL_20260128_210750026.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/PXL_20260128_210750026.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
