@@ -67,7 +67,7 @@ Because the Capture Studio was originally designed for self-service easy video r
 
 ### Podcasting Crate Layout
 
-<div><figure><img src="../../.gitbook/assets/PC Top View Labeled.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/PC Top Remove Tray.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/PC Top View Labeled Lrg Lttrs.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/PC Top Remove Tray.png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../../.gitbook/assets/PC Bottom View Labeled.png" alt=""><figcaption></figcaption></figure>
 
