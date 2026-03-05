@@ -1,8 +1,7 @@
 ---
 description: Step-by-step guide to using the large format inkjet printer
-cover: >-
-  ../.gitbook/assets/EPSON-SureColor_-P9000-Standard-Edition-Printer-EPSON-1683067358.jpeg
-coverY: 136.36533333333333
+cover: ../.gitbook/assets/SimplyPrint-TempBanner.png
+coverY: 0
 ---
 
 # 🖨️ 3D Printing using SimplyPrint
