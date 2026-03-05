@@ -21,9 +21,9 @@ CATS uses the online platform SimplyPrint to handle all 3D printing. Attempting 
 
 ### Only print from the Physical Media Lab
 
-While SimplyPrint is an online platform for handling 3D printing we require all users to start prints while they are physically present in the Physical Media Lab in order to ensure that the print starts successfully. Failure to be present when printing can result in loss of printing privileges.
+While SimplyPrint is an online platform for handling 3D printing we require all users to start prints while they are physically present in the Physical Media Lab in order to ensure that the print starts successfully. <mark style="color:$warning;">Failure to be present when printing can result in loss of printing privileges.</mark>
 
-### Log in to SimplyPrint
+### 1. Log in to SimplyPrint
 
 During your training with the Creative Technology Assistant they will create a SimplyPrint account. You can log in to your account at [https://simplyprint.io/panel/login](https://simplyprint.io/panel/login)
 
@@ -31,7 +31,7 @@ After you log in you should see your dashboard which looks something like this:
 
 <figure><img src="../.gitbook/assets/SimplyPrint-01-Dash.png" alt="Screenshot of the SimplyPrint dashboard"><figcaption></figcaption></figure>
 
-### Uploading your 3D model
+### 2. Uploading your 3D model
 
 SimplyPrint accepts a variety of 3D model formats including:
 
@@ -51,7 +51,7 @@ When you upload your 3D model it will ask you if you want to save the model file
 
 We do not use queues so never use the "Add to queue" option.
 
-### Slicing settings
+### 3. Slicing settings
 
 **We recommend that beginners use the "Basic" settings for slicing.**&#x20;
 
@@ -81,7 +81,7 @@ This setting has the most effect on print strength. If you need a stronger print
 
 **Turn on supports if needed**. Adding supports is important for any prints that have parts that overhanging parts.
 
-### Adjusting the model
+### 4. Adjusting the model
 
 In addition to the slicing you can make adjustments to the model or add additional objects to the bed before slicing.
 
@@ -107,11 +107,41 @@ SimplyPrint can analyze your model and identify what it thinks is the best face 
 
 This option lets you choose a specific face and SimplyPrint will place that face on the bed.
 
+### 5. Slice preview
+
+Once you have adjusted the model and settings you can hit slice. SimplyPrint will then present you with a preview of your sliced model.&#x20;
+
+#### Warnings
+
+If SimplyPrint give you a warning, such as "poor bed adhesion", read through its advice and hit the **Prepare button** in the upper right corner of the 3D view to return to the slicing settings and adjustments.
+
+#### Print Info
+
+The box at the lower left of the 3D preview labeled **Print Info** will show you information about print time. You can ignore information about cost as we currently do not charge for prints.
+
+### 6. Printing
+
+When you are ready hit **Print** button. You will be shown the available printers.&#x20;
+
+The box in the upper right of the Printers card shows its status:
+
+* Green means the printer should be ready to print
+* Blue means there is currently a job printing
+* Red means there is a problem with the printer.
+
+<mark style="color:$warning;">**IMPORTANT**</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">Before selecting and printing. Inspect the physical printer. Make sure that nothing is on the bed. The build plate is on the bed and there are no other problems with the printer.</mark>&#x20;
+
+Select a printer that is available and once you verify it is ready hit print.
+
+<mark style="color:$warning;">**IMPORTANT**</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">You must be present for the first three layers or first 10 minutes of the print before leaving.</mark>
+
+Please see [our website](https://go.brown.edu/cats-3dprinting) for information on maximum print time, number of printers, removing prints and other policies.
+
+Happy printing!
 
 
-### Additional resources
 
-For more information about our services please visit the CATS website: [https://go.brown.edu/cats-3dprinting](https://go.brown.edu/cats-3dprinting)
+
 
 
 
