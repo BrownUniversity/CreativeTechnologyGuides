@@ -26,7 +26,7 @@
 ## Cheatsheets
 
 * [🖨️ Printing to the Epson Stylus P9000](cheatsheets/printing-to-the-epson-stylus-p9000.md)
-* [🖨️ 3D Printing using SimplyPrint](cheatsheets/printing-to-the-epson-stylus-p9000-1.md)
+* [🖨️ 3D Printing using SimplyPrint](cheatsheets/3d-printing-using-simplyprint.md)
 
 ## Check-Out Equipment
 
