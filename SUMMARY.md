@@ -26,7 +26,6 @@
 ## Cheatsheets
 
 * [🖨️ Printing to the Epson Stylus P9000](cheatsheets/printing-to-the-epson-stylus-p9000.md)
-* [🕳️ 3D Printed MM Hole Guide with Pegs](cheatsheets/3d-printed-mm-hole-guide-with-pegs.md)
 
 ## Check-Out Equipment
 
@@ -80,6 +79,7 @@
     * [🤳 Using Your Phone to Record](guides/podcasting/iphone-smartphone-podcasting-cheat-sheet/using-your-phone-to-record.md)
 * [3D design and modeling](guides/3d-design-and-modeling/README.md)
   * [Finding 3D models and materials](guides/3d-design-and-modeling/finding-3d-models-and-materials.md)
+  * [🕳️ 3D Printed MM Hole Guide with Pegs](guides/3d-design-and-modeling/3d-printed-mm-hole-guide-with-pegs.md)
 
 ***
 

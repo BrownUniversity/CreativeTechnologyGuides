@@ -3,20 +3,6 @@ description: >-
   The capture studio is primarily setup to be a self-recording video studio.
   however, it can used for audio recording as well. This page will go over how
   to set up the studio as well as PodTrack P4Next.
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Setting Up for Podcasting
