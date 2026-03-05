@@ -86,7 +86,7 @@ This setting has the most effect on print strength. If you need a stronger print
 
 In addition to the slicing you can make adjustments to the model or add additional objects to the bed before slicing.
 
-
+<figure><img src="../.gitbook/assets/SimplyPrint-04-AdjustObject.png" alt="Screenshot of 3D view of SimplyPrint show button location of key features."><figcaption></figcaption></figure>
 
 #### Move, rotate and scale
 
@@ -96,12 +96,25 @@ The three buttons to the left of the 3D view allow you to move, rotate or scale 
 
 You can add more than one object/model to the bed and slice them together.
 
+#### Arrange objects
+
+This option allows you to space multiple objects on the bed.
+
 #### Smart rotate
 
-SimplyPrint can analyze your model and identify what it thinks is the face to rest on the bed.&#x20;
+SimplyPrint can analyze your model and identify what it thinks is the best face to rest on the bed.&#x20;
 
 #### Lay on side
 
 This option lets you choose a specific face and SimplyPrint will place that face on the bed.
 
+
+
+### Additional resources
+
+For more information about our services please visit the CATS website: [https://go.brown.edu/cats-3dprinting](https://go.brown.edu/cats-3dprinting)
+
+
+
 <figure><img src="https://lh5.googleusercontent.com/T5b1wgMSzgYoKdukfrH5lmBYpeKcFvKVRqCnXzkpFYMxThyPpWUJT0_yfmJe_gk-MZaqABs-8i76cM1A-bBx8B9zDBcN06DIeHRA5yOJbBqOwzplEYU-kKSsppfA_PsoOOMvhdX92KVbGGy1AQiPxXbXeFvaE9BAzYFdS5pqr5AXuIBGO34Gvz6kNt5GOQ" alt="" width="188"><figcaption></figcaption></figure>
+
