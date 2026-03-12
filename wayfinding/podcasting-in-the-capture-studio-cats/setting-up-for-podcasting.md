@@ -3,9 +3,39 @@ description: >-
   The capture studio is primarily setup to be a self-recording video studio.
   however, it can used for audio recording as well. This page will go over how
   to set up the studio as well as PodTrack P4Next.
+cover: ../../.gitbook/assets/Leo Podcasting Crate.jpg
+coverY: 0
+coverHeight: 545
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Setting Up for Podcasting
+
+## Physical Setup
+
+You will need to borrow the table and the chairs from the Multi-User Editing Station, which are stored behind the curtain and should be returned there after your session. Roll the table in front the curtain so that you can use other functions of the studio, including the lights, and camera.&#x20;
+
+<div><figure><img src="../../.gitbook/assets/image (49).png" alt="" width="563"><figcaption><p>The chairs are now black, not red</p></figcaption></figure> <figure><img src="../../.gitbook/assets/move curtains .gif" alt="" width="563"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../../.gitbook/assets/P3110972 copy.jpeg" alt=""><figcaption><p>Typical 4 person podcasting set up using the studio lights. which can be useful if you are doing a "video" podcast</p></figcaption></figure> <figure><img src="../../.gitbook/assets/P3110980.JPG" alt="" width="563"><figcaption><p>In addition to the studio camera, you can use the  light stand with mobile holder to get multiple angles, or just capture clips for social media</p></figcaption></figure></div>
 
 ## Setting up the Podtrak P4Next
 

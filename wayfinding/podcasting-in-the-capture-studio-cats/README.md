@@ -7,13 +7,14 @@ cover: >-
   ../../.gitbook/assets/P4next-Outro-Story-3200x1800.jpg.1600x0_q80_crop-smart_size_canvas_upscale
   (1).jpg
 coverY: 63.93135491606715
+coverHeight: 399
 ---
 
 # Podcasting in the Capture Studio @ CATS
 
 _<mark style="background-color:$warning;">**Podcasting in the Captures studio does require that you are both a**</mark>_ [_<mark style="background-color:$warning;">**CATS member**</mark>_](https://brown.edu/go/cats_orientation)_<mark style="background-color:$warning;">**, and have successfully completed the**</mark>_ [_<mark style="background-color:$warning;">**Capture Studio training**</mark>_](https://brown.edu/go/cats-capturestudio)_<mark style="background-color:$warning;">**, both of which can be done online.**</mark>_&#x20;
 
-<mark style="background-color:orange;">Note: This resource is designed for beginers who are looking for an easy setup to start their podcasting journey. Advanced users already familiar with using audio interfaces should may use our setup for advanced workflows on their own, understanding that they must return the device back to our base settings when finished, which can be found throughout this resource.</mark>&#x20;
+<mark style="background-color:orange;">Note: This resource is designed for beginers who are looking for an easy setup to start their podcasting journey. Advanced users already familiar with using audio interfaces should may use our setup for advanced workflows on their own, understanding that they must return the device back to our base settings when finished, which can be found throughout this resource. Lastly, if you are new podcasting in general, you may find our</mark> [_<mark style="background-color:orange;">**MML Podcasting Resource Guide**</mark>_](https://go.brown.edu/mmlpodcasting) <mark style="background-color:orange;">helpful</mark>
 
 <div><figure><img src="../../.gitbook/assets/Screenshot 2026-01-29 at 11.07.55 AM (1).png" alt=""><figcaption><p>The Podtrak P4 Next is the latest easy to use podcasting device from Zoom. You can learn more about it below.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/PC Top View Tight.png" alt=""><figcaption><p>our cutsom podcasting crate for the capture studio!</p></figcaption></figure></div>
 
@@ -65,6 +66,12 @@ Because the Capture Studio was originally designed for self-service easy video r
 
 </details>
 
+### Home Base.&#x20;
+
+The podcasting crate should be stored on the bottom shelf of the rolling laptop cart in the Capture Studio when not in use. All podcasting equipment should be stored within the crate itself&#x20;
+
+<figure><img src="../../.gitbook/assets/P3110967 copy.jpeg" alt=""><figcaption></figcaption></figure>
+
 ### Podcasting Crate Layout
 
 <div><figure><img src="../../.gitbook/assets/PC Top View Labeled Lrg Lttrs.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/PC Top Remove Tray.png" alt=""><figcaption></figcaption></figure></div>
@@ -73,7 +80,7 @@ Because the Capture Studio was originally designed for self-service easy video r
 
 
 
-#### A few things about putting things back in the Podcasting Crate.&#x20;
+### A few things about putting things back in the Podcasting Crate.&#x20;
 
 _<mark style="background-color:orange;">In general, its good to put things that belong in the bottom of the tray first.</mark>_
 
