@@ -3,11 +3,9 @@ description: >-
   learn how you can use the podcasting equipment in the capture studio to record
   interviews, start a buddy-buddy, podcast, or do multi-channel recording with
   an easy set up, designed for beginners.
-cover: >-
-  ../../.gitbook/assets/P4next-Outro-Story-3200x1800.jpg.1600x0_q80_crop-smart_size_canvas_upscale
-  (1).jpg
-coverY: 63.93135491606715
-coverHeight: 399
+cover: ../../.gitbook/assets/Leo Podcasting Crate.jpg
+coverY: -185.3905152539483
+coverHeight: 595
 ---
 
 # Podcasting in the Capture Studio @ CATS

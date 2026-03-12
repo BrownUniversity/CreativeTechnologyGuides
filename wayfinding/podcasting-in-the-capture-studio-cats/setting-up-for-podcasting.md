@@ -3,14 +3,9 @@ description: >-
   The capture studio is primarily setup to be a self-recording video studio.
   however, it can used for audio recording as well. This page will go over how
   to set up the studio as well as PodTrack P4Next.
-cover: ../../.gitbook/assets/Leo Podcasting Crate.jpg
-coverY: 0
-coverHeight: 545
+icon: '1'
 layout:
   width: wide
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:

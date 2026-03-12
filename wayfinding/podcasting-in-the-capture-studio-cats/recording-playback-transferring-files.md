@@ -2,6 +2,7 @@
 description: >-
   Learn to record, pause and stop your session, playback your audio recording,
   and finally transfer your files.
+icon: '3'
 ---
 
 # Recording, Playback, Transferring Files

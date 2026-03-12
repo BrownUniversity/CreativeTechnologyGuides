@@ -3,6 +3,7 @@ description: >-
   Reference for adjusting the P4Next settings. It will review setting gain for
   the mics, volume of the headphones, and different audio filter options: tone,
   compressor, and AI noise reduction.
+icon: '2'
 ---
 
 # Gain, Volume, and Audio Filters Settings:
