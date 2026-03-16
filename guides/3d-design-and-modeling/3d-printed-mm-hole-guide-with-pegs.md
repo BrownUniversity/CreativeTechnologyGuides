@@ -14,7 +14,7 @@ getting tolerances for things like holes and pegs can be tricky with 3D printing
 
 The guide should always be read from left to right, with the giant thumb hole oriented on the bottom left corner. To read the size of each hole directly, take the number on the left of that row and add to the number at the top of the column. The hole sizes get larger from left to right, ending at the "\_.9" size for that hole size, which is indicated on left most column. For example in the image below, the hole in green is a design size 7.3mm because its in row 7 and in column .3. Notice that I said _**design size**_. What is design size? read the next section to find out.&#x20;
 
-<figure><img src="../../.gitbook/assets/mm hold guide how to read.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mm hold guide how to read.png" alt=""><figcaption><p>This hole guide was designed by D3P a on printables. For more direct access, scroll to the "Print your own version" section below.</p></figcaption></figure>
 
 ## Design Size vs True Size
 
@@ -58,3 +58,8 @@ Most often you will design your pegs first and your hole second. The pegs vary i
       <div><figure><img src="../../.gitbook/assets/Screenshot 2025-11-03 at 10.06.43 AM.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2025-11-03 at 10.07.21 AM.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/PXL_20251103_144817012~2.jpg" alt=""><figcaption></figcaption></figure></div>
 * <mark style="color:orange;">Note: that the hole guide provided is technically only accurate for the filament it was printed on and the printer it was printed on, which is the Prusa Mk4S in the PML and Elegoo Gray PLA. While it is still relatively reliable to use with other PLA and Printers, there may be a slight margin of error.</mark>&#x20;
 
+## Print your own version
+
+You can find all the [pegs available for download on Printables for free](https://www.printables.com/model/1639909-pegs-for-mm-size-guide). In the description there we link to the original hole guide by D3P as well.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-16 at 11.46.25 AM.png" alt=""><figcaption></figcaption></figure>
